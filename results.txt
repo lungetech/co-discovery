@@ -1,0 +1,20 @@
+2015 - DARPA Cyber Grand Challenge Qualifier
+82.29% were identified by more than one entity (79 of 96)
+31.97% chance in co-discovery
+
+2013 - DEFCON CTF Qualifier
+100.00% were identified by more than one entity (5 of 5)
+58.04% chance in co-discovery
+
+2014 - DEFCON CTF Qualifier
+93.33% were identified by more than one entity (14 of 15)
+26.13% chance in co-discovery
+
+2015 - DEFCON CTF Qualifier
+100.00% were identified by more than one entity (10 of 10)
+32.16% chance in co-discovery
+
+2016 - DEFCON CTF Qualifier
+100.00% were identified by more than one entity (20 of 20)
+46.34% chance in co-discovery
+
