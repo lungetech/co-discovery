@@ -9,4 +9,4 @@
         done
     done
 
-    python process.py
+    python process.py > results.txt

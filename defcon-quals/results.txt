@@ -1,0 +1,62 @@
+2013 - 898 teams
+{
+    "babysfirst": 231, 
+    "badmedicine": 362, 
+    "hypeman": 180, 
+    "rememberme": 182, 
+    "worsemedicine": 113
+}
+2014 - 1433 teams
+{
+    "100lines": 36, 
+    "bbgp": 26, 
+    "byhd": 53, 
+    "choripan": 1, 
+    "dosfun4u": 7, 
+    "dosfun4u round 2": 6, 
+    "fritas": 32, 
+    "medianoche": 20, 
+    "nonameyet": 9, 
+    "polyglot": 44, 
+    "sftp": 58, 
+    "shitsco": 98, 
+    "sick": 2, 
+    "turdedo": 13, 
+    "zombies": 34
+}
+2015 - 1472 teams
+{
+    "Waiting for your Touch": 60, 
+    "cybergrandsandbox": 64, 
+    "fuckup": 32, 
+    "hackercalc": 5, 
+    "heapsoffun": 23, 
+    "int3rupted": 17, 
+    "tensixtyseven": 23, 
+    "thing2": 3, 
+    "twentyfiveseventy": 28, 
+    "wibbly wobbly timey wimey": 73
+}
+2016 - 1335 teams
+{
+    "1000 cuts": 47, 
+    "334 cuts": 51, 
+    "666 cuts": 47, 
+    "LEGIT_00001": 51, 
+    "LEGIT_00001_patch": 61, 
+    "LEGIT_00002": 45, 
+    "LEGIT_00002_patch": 57, 
+    "LEGIT_00003": 61, 
+    "LEGIT_00003_patched": 70, 
+    "LEGIT_00004": 21, 
+    "LEGIT_00004_patch": 46, 
+    "badger": 17, 
+    "banker": 45, 
+    "crunchtime": 15, 
+    "easier": 5, 
+    "glados": 11, 
+    "int3rupt": 28, 
+    "justintime": 18, 
+    "kiss": 33, 
+    "pillpusher": 31
+}
