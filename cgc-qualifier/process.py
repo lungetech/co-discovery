@@ -23,7 +23,15 @@ def main():
             if evaluation == "2":
                 results[name] += 1
 
-    print "%d teams" % len(teams)
-    print json.dumps(results, sort_keys=True, indent=4)
+    output = []
+
+    output.append({
+     'teams': len(teams),
+      'year': 2015,
+      'type': 'CTF',
+      'title': 'DARPA Cyber Grand Challenge Qualifier',
+      'results': results})
+
+    print json.dumps(output, sort_keys=True, indent=4)
 
 main()
