@@ -48,12 +48,12 @@ def only_these(results, categories):
 
     for result in results:
         player, category, challenge, team = result
+        teams.add(team)
         if category not in categories:
             continue
         if challenge not in solved:
             solved[challenge] = 0
         solved[challenge] += 1
-        teams.add(team)
 
     return solved, teams
 
