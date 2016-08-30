@@ -2,7 +2,7 @@
 
 # Reproducing
 
-    DATA="gits cgc-qualifier defcon-quals ictf"
+    DATA="gits cgc-qualifier defcon-quals ictf microcorruption"
 
     for i in $DATA; do
         (cd $i && ./build.sh)

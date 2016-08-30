@@ -26,3 +26,7 @@
 100.00% were identified by more than one entity (20 of 20)
 13.72% chance in co-discovery
 
+2016 - Microcorruption
+100.00% were identified by more than one entity (19 of 19)
+15.08% chance in co-discovery
+
