@@ -1,0 +1,35 @@
+[
+    {
+        "results": {
+            "1337_pizza": 5, 
+            "ATM_machine": 17, 
+            "Folkswagen_emissions": 5, 
+            "Wolfpack_Contact_Book": 3, 
+            "debugging_madness": 1, 
+            "dungeon": 9, 
+            "faust_ticket_registration": 2, 
+            "hacker_diary": 7, 
+            "jokes": 5, 
+            "monkey-see-monkey-do": 1, 
+            "n4w_secrets": 14, 
+            "notecxx": 2, 
+            "pirate_map": 3, 
+            "poetry": 14, 
+            "ropeman": 1, 
+            "rpncalc": 6, 
+            "sharing": 20, 
+            "simplecalc": 5, 
+            "syper_service": 1, 
+            "text_file_store": 24, 
+            "tweety_bird": 7, 
+            "ucl_thor": 11, 
+            "uss_pirate_service": 2, 
+            "w0yager": 9, 
+            "wcaaS": 2
+        }, 
+        "teams": 44, 
+        "title": "iCTF", 
+        "type": "CTF", 
+        "year": 2015
+    }
+]
