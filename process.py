@@ -3,9 +3,10 @@
 import sys
 import json
 import numpy
+from operator import attrgetter
 
 def process(data):
-    for entry in data:
+    for entry in sorted(data, key=lambda x: (x['year'], x['title'])):
         print "%d - %s" % (entry['year'], entry['title'])
 
         dups = 0
