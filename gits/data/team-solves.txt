@@ -1,0 +1,1217 @@
+    question_name     |             teamname              |                           submission                           |          creation          
+----------------------+-----------------------------------+----------------------------------------------------------------+----------------------------
+ one                  | sigint                            | SNC 52                                                         | 2014-01-17 16:01:37.499422
+ one                  | National Swag Agency              | SNC 52                                                         | 2014-01-17 16:02:29.558853
+ one                  | Delusions of Grandeur             | SNC 52                                                         | 2014-01-17 16:02:30.910834
+ one                  | SpamAndHex Lite                   | SNC 52                                                         | 2014-01-17 16:03:08.149173
+ one                  | acronym                           | SNC 52                                                         | 2014-01-17 16:03:31.505750
+ one                  | HackingForSoju                    | SNC 52                                                         | 2014-01-17 16:03:33.386319
+ one                  | Glimpses of Grandeur              | SNC 52                                                         | 2014-01-17 16:03:33.970652
+ one                  | ECX Inc                           | SNC 52                                                         | 2014-01-17 16:03:45.462700
+ one                  | Memory Fist                       | snc 52                                                         | 2014-01-17 16:03:48.988649
+ one                  | pwnies                            | SNC 52                                                         | 2014-01-17 16:03:52.823370
+ one                  | w3stormz                          | SNC 52                                                         | 2014-01-17 16:03:53.129360
+ one                  | 0x8F                              | SNC 52                                                         | 2014-01-17 16:04:06.588702
+ one                  | Big-Daddy                         | SNC 52                                                         | 2014-01-17 16:04:11.256438
+ one                  | poc                               | SNC 52                                                         | 2014-01-17 16:04:15.370042
+ one                  | penthackon                        | SNC 52                                                         | 2014-01-17 16:04:19.721577
+ one                  | PPP                               | SNC 52                                                         | 2014-01-17 16:04:23.204402
+ one                  | TO999                             | snc 52                                                         | 2014-01-17 16:04:25.751588
+ one                  | tomcr00se                         | SNC 52                                                         | 2014-01-17 16:04:40.574975
+ one                  | mztriz                            | snc 52                                                         | 2014-01-17 16:04:43.606943
+ one                  | AutoBits                          | SNC 52                                                         | 2014-01-17 16:04:52.356619
+ one                  | Cast Party                        | SNC 52                                                         | 2014-01-17 16:05:16.376341
+ one                  | JollyJackson                      | SNC 52                                                         | 2014-01-17 16:05:17.662371
+ one                  | tehcub                            | SNC 52                                                         | 2014-01-17 16:05:19.503597
+ one                  | Kollegah der Boss                 | SNC 52                                                         | 2014-01-17 16:05:24.015306
+ one                  | TRex                              | snc 52                                                         | 2014-01-17 16:06:16.330703
+ one                  | 1338-offbyone                     | SNC 52                                                         | 2014-01-17 16:06:49.276222
+ one                  | schmoos                           | snc 52                                                         | 2014-01-17 16:05:26.563279
+ one                  | The Cat is #1!!                   | SNC 52                                                         | 2014-01-17 16:06:24.145212
+ one                  | Robot Mafia                       | snc 52                                                         | 2014-01-17 16:07:01.132141
+ one                  | weed and beer                     | snc 52                                                         | 2014-01-17 16:06:24.622855
+ one                  | left my root shells in el segundo | SNC 52                                                         | 2014-01-17 16:07:04.698345
+ one                  | catbug                            | SNC 52                                                         | 2014-01-17 16:07:04.780597
+ DOS Attack           | Delusions of Grandeur             | LOADALL                                                        | 2014-01-17 16:07:11.746748
+ one                  | bilibili                          | SNC 52                                                         | 2014-01-17 16:07:12.630250
+ one                  | ShellShocked                      | SNC 52                                                         | 2014-01-17 16:07:38.207197
+ one                  | JustLooking                       | SNC 52                                                         | 2014-01-17 16:07:46.251278
+ one                  | cy                                | SNC 52                                                         | 2014-01-17 16:07:57.448633
+ one                  | ufologists                        | snc 52                                                         | 2014-01-17 16:07:58.280134
+ one                  | Team Nullspace                    | SNC 52                                                         | 2014-01-17 16:08:21.768507
+ one                  | ReallyBalalaikaFoRDot             | SNC 52                                                         | 2014-01-17 16:08:23.983469
+ one                  | Koibasta                          | SNC 52                                                         | 2014-01-17 16:08:31.979561
+ one                  | MITP                              | SNC 52                                                         | 2014-01-17 16:08:32.289851
+ one                  | Eindbazen                         | SNC 52                                                         | 2014-01-17 16:08:41.659810
+ one                  | Cant Sudo Touch This              | snc 52                                                         | 2014-01-17 16:08:59.138018
+ one                  | dcua                              | snc 52                                                         | 2014-01-17 16:10:05.796739
+ one                  | Snatch The Root                   | SNC 52                                                         | 2014-01-17 16:10:06.528281
+ one                  | BeginBazen                        | SNC 52                                                         | 2014-01-17 16:10:12.568169
+ one                  | FIXME                             | SNC 52                                                         | 2014-01-17 16:10:22.836449
+ one                  | hDs                               | snc 52                                                         | 2014-01-17 16:10:32.589952
+ DOS Attack           | ECX Inc                           | LOADALL                                                        | 2014-01-17 16:10:54.320098
+ one                  | SomeRandomName                    | snc 52                                                         | 2014-01-17 16:11:08.947971
+ one                  | AFTeam                            | SNC 52                                                         | 2014-01-17 16:12:33.868689
+ one                  | gn00bz                            | SNC 52                                                         | 2014-01-17 16:13:25.242909
+ DOS Attack           | WeLoveCP                          | LOADALL                                                        | 2014-01-17 16:13:28.365983
+ one                  | WeLoveCP                          | snc 52                                                         | 2014-01-17 16:11:09.394805
+ one                  | 10111                             | snc 52                                                         | 2014-01-17 16:11:24.875993
+ one                  | ATeam                             | snc 52                                                         | 2014-01-17 16:11:42.195458
+ one                  | RDotOrg                           | SNC 52                                                         | 2014-01-17 16:11:48.164278
+ one                  | Team Wheatley                     | SNC 52                                                         | 2014-01-17 16:12:05.125770
+ one                  | NULLify                           | SNC 52                                                         | 2014-01-17 16:13:22.294638
+ DOS Attack           | 0x8F                              | loadall                                                        | 2014-01-17 16:11:34.365125
+ one                  | StratumAuhuur                     | SNC 52                                                         | 2014-01-17 16:11:39.321338
+ one                  | localmaximum                      | SNC 52                                                         | 2014-01-17 16:12:04.937743
+ one                  | Tasteless                         | snc 52                                                         | 2014-01-17 16:12:53.163137
+ one                  | gon                               | SNC 52                                                         | 2014-01-17 16:13:15.884825
+ one                  | MSP                               | SNC 52                                                         | 2014-01-17 16:13:55.797581
+ DOS Attack           | StratumAuhuur                     | loadall                                                        | 2014-01-17 16:14:40.818700
+ DOS Attack           | Dragon Sector                     | LOADALL                                                        | 2014-01-17 16:14:58.401572
+ one                  | samurai                           | snc 52                                                         | 2014-01-17 16:15:06.367022
+ DOS Attack           | TracerTea                         | loadall                                                        | 2014-01-17 16:15:46.887016
+ DOS Attack           | Disgrace                          | LOADALL                                                        | 2014-01-17 16:16:57.462266
+ one                  | int3pids                          | SNC 52                                                         | 2014-01-17 16:15:22.331997
+ one                  | Honeypot                          | snc 52                                                         | 2014-01-17 16:15:36.692897
+ one                  | mishutka                          | SNC 52                                                         | 2014-01-17 16:16:31.116025
+ one                  | BatmansKitchen                    | snc 52                                                         | 2014-01-17 16:15:33.904554
+ one                  | The DHARMA Initiative             | SNC 52                                                         | 2014-01-17 16:15:59.379770
+ one                  | Dragon Sector                     | SNC 52                                                         | 2014-01-17 16:17:06.362992
+ one                  | Kernel Sanders                    | SNC 52                                                         | 2014-01-17 16:17:54.581511
+ DOS Attack           | ReallyBalalaikaFoRDot             | LOADALL                                                        | 2014-01-17 16:17:58.799319
+ one                  | TwoSixNine                        | SNC 52                                                         | 2014-01-17 16:18:15.803793
+ DOS Attack           | HackingForSoju                    | loadall                                                        | 2014-01-17 16:18:16.354381
+ one                  | movsx                             | SNC 52                                                         | 2014-01-17 16:18:50.402025
+ one                  | secse                             | SNC 52                                                         | 2014-01-17 16:19:14.772865
+ DOS Attack           | localmaximum                      | LOADALL                                                        | 2014-01-17 16:19:16.617902
+ one                  | Gungnir                           | snc 52                                                         | 2014-01-17 16:19:45.666601
+ one                  | foobar                            | snc 52                                                         | 2014-01-17 16:19:36.220768
+ DOS Attack           | RDotOrg                           | LOADALL                                                        | 2014-01-17 16:19:41.839085
+ DOS Attack           | Eindbazen                         | loadall                                                        | 2014-01-17 16:20:32.302860
+ one                  | Bit0n                             | SNC 52                                                         | 2014-01-17 16:20:40.239876
+ one                  | Masters of Puppets                | snc 52                                                         | 2014-01-17 16:21:16.383688
+ one                  | Disgrace                          | SNC 52                                                         | 2014-01-17 16:21:48.321259
+ one                  | H4x0rPsch0rr                      | snc 52                                                         | 2014-01-17 16:22:10.152388
+ one                  | Pi Backwards                      | snc 52                                                         | 2014-01-17 16:22:37.659730
+ DOS Attack           | catbug                            | LOADALL                                                        | 2014-01-17 16:22:40.767927
+ one                  | fish                              | snc 52                                                         | 2014-01-17 16:22:43.317446
+ one                  | Lost_in_Security                  | SNC 52                                                         | 2014-01-17 16:22:44.475656
+ one                  | Muahaha                           | snc 52                                                         | 2014-01-17 16:23:01.406194
+ DOS Attack           | 1338-offbyone                     | LOADALL                                                        | 2014-01-17 16:23:03.904692
+ Boaring Music        | National Swag Agency              | ASTARISBOARN                                                   | 2014-01-17 16:23:13.683092
+ DOS Attack           | Hackademics                       | LOADALL                                                        | 2014-01-17 16:24:12.257862
+ DOS Attack           | Honeypot                          | LOADALL                                                        | 2014-01-17 16:23:32.919400
+ DOS Attack           | PPP                               | loadall                                                        | 2014-01-17 16:23:37.656611
+ one                  | Shadow Cats                       | SNC 52                                                         | 2014-01-17 16:23:48.612757
+ DOS Attack           | 10111                             | LOADALL                                                        | 2014-01-17 16:25:11.660312
+ one                  | OGT                               | snc 52                                                         | 2014-01-17 16:25:25.820938
+ DOS Attack           | TRex                              | loadall                                                        | 2014-01-17 16:25:42.409329
+ one                  | Vegan Zombies                     | SNC 52                                                         | 2014-01-17 16:26:10.180332
+ one                  | Captain Cyber                     | SNC 52                                                         | 2014-01-17 16:26:35.202517
+ DOS Attack           | tomcr00se                         | LOADALL                                                        | 2014-01-17 16:26:39.129010
+ DOS Attack           | BeginBazen                        | LOADALL                                                        | 2014-01-17 16:26:51.727122
+ one                  | wildcatsec                        | snc 52                                                         | 2014-01-17 16:27:06.421898
+ one                  | Caspian                           | SNC 52                                                         | 2014-01-17 16:27:24.061498
+ DOS Attack           | NULLify                           | loadall                                                        | 2014-01-17 16:27:43.623310
+ DOS Attack           | fragged                           | LOADALL                                                        | 2014-01-17 16:28:43.540782
+ DOS Attack           | w3stormz                          | loadall                                                        | 2014-01-17 16:29:50.473048
+ one                  | TracerTea                         | SNC 52                                                         | 2014-01-17 16:30:50.160724
+ one                  | Buildism                          | SNC 52                                                         | 2014-01-17 16:28:58.115881
+ DOS Attack           | BatmansKitchen                    | loadall                                                        | 2014-01-17 16:29:29.810463
+ DOS Attack           | penthackon                        | LOADALL                                                        | 2014-01-17 16:31:15.037475
+ DOS Attack           | Koibasta                          | loadall                                                        | 2014-01-17 16:32:57.025376
+ DOS Attack           | Zenk-Security                     | LOADALL                                                        | 2014-01-17 16:33:05.529153
+ DOS Attack           | ATeam                             | loadall                                                        | 2014-01-17 16:33:33.415438
+ one                  | n0l3ptr                           | SNC 52                                                         | 2014-01-17 16:34:13.390179
+ one                  | Sec0d                             | SNC 52                                                         | 2014-01-17 16:34:21.171020
+ one                  | More Smoked Leet Chicken          | SNC 52                                                         | 2014-01-17 16:37:31.615217
+ one                  | Zenk-Security                     | SNC 52                                                         | 2014-01-17 16:37:32.318241
+ DOS Attack           | mishutka                          | LOADALL                                                        | 2014-01-17 16:36:49.786457
+ DOS Attack           | sigint                            | loadall                                                        | 2014-01-17 16:37:42.082970
+ one                  | Ryan                              | SNC 52                                                         | 2014-01-17 16:35:45.991766
+ one                  | securinets                        | SNC 52                                                         | 2014-01-17 16:38:29.646717
+ DOS Attack           | dcua                              | loadall                                                        | 2014-01-17 16:38:46.312978
+ DOS Attack           | ChrisChristieBridgeCrew           | LOADALL                                                        | 2014-01-17 16:40:33.579896
+ one                  | EpicLyons                         | snc 52                                                         | 2014-01-17 16:41:07.427255
+ one                  | Hackademics                       | SNC 52                                                         | 2014-01-17 16:41:36.495774
+ DOS Attack           | Tasteless                         | LOADALL                                                        | 2014-01-17 16:41:53.961514
+ one                  | xxxkay                            | snc 52                                                         | 2014-01-17 16:42:06.690373
+ one                  | TheGunganz                        | SNC 52                                                         | 2014-01-17 16:42:17.772095
+ one                  | Sploitz                           | SNC 52                                                         | 2014-01-17 16:44:17.969458
+ one                  | Team Action Kaktus                | SNC 52                                                         | 2014-01-17 16:44:27.659401
+ DOS Attack           | w0pr                              | LOADALL                                                        | 2014-01-17 16:45:33.090311
+ one                  | jay                               | SNC 52                                                         | 2014-01-17 16:45:40.282469
+ one                  | RHSolo                            | SNC 52                                                         | 2014-01-17 16:46:56.140205
+ one                  | CTF-infinit                       | SNC 52                                                         | 2014-01-17 16:48:36.093757
+ one                  | jay2                              | SNC 52                                                         | 2014-01-17 16:48:37.241145
+ DOS Attack           | Snatch The Root                   | LOADALL                                                        | 2014-01-17 16:50:13.372669
+ DOS Attack           | schmoos                           | LOADALL                                                        | 2014-01-17 16:53:07.755055
+ DOS Attack           | National Swag Agency              | LOADALL                                                        | 2014-01-17 16:49:18.550250
+ one                  | natas                             | snc 52                                                         | 2014-01-17 16:51:23.105426
+ DOS Attack           | samurai                           | loadall                                                        | 2014-01-17 16:52:37.731469
+ one                  | Bullshit Security                 | SNC 52                                                         | 2014-01-17 16:54:15.563844
+ DOS Attack           | Kernel Sanders                    | LOADALL                                                        | 2014-01-17 16:54:55.721419
+ one                  | Failafel                          | SNC 52                                                         | 2014-01-17 16:56:25.003609
+ one                  | whatteam                          | snc 52                                                         | 2014-01-17 16:58:39.812582
+ Boaring Music        | PURE2                             | astarisboarn                                                   | 2014-01-17 16:58:55.828694
+ one                  | hackability                       | snc 52                                                         | 2014-01-17 16:58:57.314141
+ one                  | TTL                               | SNC 52                                                         | 2014-01-17 17:02:07.252795
+ one                  | 0x1337                            | SNC 52                                                         | 2014-01-17 16:59:19.389189
+ DOS Attack           | OGT                               | LOADALL                                                        | 2014-01-17 17:05:04.592654
+ Dogecrypt            | Eindbazen                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-17 17:07:15.425250
+ one                  | captchaflag                       | SNC 52                                                         | 2014-01-17 17:00:09.251663
+ Boaring Music        | CSG                               | ASTARISBOARN                                                   | 2014-01-17 17:05:26.429288
+ one                  | bunbus                            | SNC 52                                                         | 2014-01-17 17:05:38.990570
+ one                  | LeaveRet                          | SNC 52                                                         | 2014-01-17 17:07:25.827125
+ DOS Attack           | alcapwn                           | LOADALL                                                        | 2014-01-17 17:00:16.050261
+ one                  | omgwtf                            | snc 52                                                         | 2014-01-17 17:07:09.011691
+ one                  | ChrisChristieBridgeCrew           | SNC 52                                                         | 2014-01-17 17:08:27.845528
+ one                  | alcapwn                           | snc 52                                                         | 2014-01-17 17:11:25.692117
+ one                  | Knightsec                         | SNC 52                                                         | 2014-01-17 17:13:00.554953
+ one                  | PURE2                             | snc 52                                                         | 2014-01-17 17:13:48.946495
+ one                  | 0wl                               | SNC 52                                                         | 2014-01-17 17:20:22.639587
+ one                  | RPISEC                            | SNC 52                                                         | 2014-01-17 17:20:53.476869
+ DOS Attack           | Robot Mafia                       | LOADALL                                                        | 2014-01-17 17:15:28.074727
+ DOS Attack           | int3pids                          | LOADALL                                                        | 2014-01-17 17:19:29.014856
+ one                  | netcats                           | SNC 52                                                         | 2014-01-17 17:21:43.621362
+ one                  | 0x90                              | snc 52                                                         | 2014-01-17 17:20:22.633606
+ Dogecrypt            | 0x8F                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-17 17:18:07.741135
+ one                  | RFP                               | SNC 52                                                         | 2014-01-17 17:21:49.341883
+ DOS Attack           | The Cat is #1!!                   | loadall                                                        | 2014-01-17 17:27:41.685437
+ Boaring Music        | sigint                            | astarisboarn                                                   | 2014-01-17 17:26:36.285407
+ Boaring Music        | More Smoked Leet Chicken          | astarisboarn                                                   | 2014-01-17 17:29:42.475737
+ one                  | EpicTeam                          | SNC 52                                                         | 2014-01-17 17:33:17.486163
+ one                  | eLeete Order of Longhorns         | SNC 52                                                         | 2014-01-17 17:26:45.165110
+ one                  | 9447                              | SNC 52                                                         | 2014-01-17 17:33:21.787736
+ one                  | Hackdumb                          | snc 52                                                         | 2014-01-17 17:35:24.569702
+ Boaring Music        | Dragon Sector                     | ASTARISBOARN                                                   | 2014-01-17 17:36:01.859500
+ DOS Attack           | TTL                               | LOADALL                                                        | 2014-01-17 17:38:37.920219
+ one                  | Forever Alone                     | snc 52                                                         | 2014-01-17 17:45:04.617461
+ DOS Attack           | Lost_in_Security                  | LOADALL                                                        | 2014-01-17 17:45:17.114843
+ one                  | DragonTrainers                    | SNC 52                                                         | 2014-01-17 17:40:08.074892
+ one                  | bcc                               | SNC 52                                                         | 2014-01-17 17:48:01.273669
+ Boaring Music        | ReallyBalalaikaFoRDot             | astarisboarn                                                   | 2014-01-17 17:50:53.344996
+ one                  | sheepfish                         | snc 52                                                         | 2014-01-17 17:46:56.554132
+ lugkist              | fragged                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-17 17:48:00.096781
+ Ad Subtract          | PPP                               | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 17:52:48.806190
+ one                  | n2r                               | SNC 52                                                         | 2014-01-17 17:43:17.694277
+ one                  | Fatty                             | snc 52                                                         | 2014-01-17 17:46:10.126401
+ Boaring Music        | StratumAuhuur                     | ASTARISBOARN                                                   | 2014-01-17 17:53:59.173268
+ one                  | Paranoid Androids                 | snc 52                                                         | 2014-01-17 17:55:51.614715
+ DOS Attack           | Memory Fist                       | loadall                                                        | 2014-01-17 17:57:35.784079
+ Boaring Music        | HeXA                              | astarisboarn                                                   | 2014-01-17 17:57:40.859800
+ one                  | PeakChaos                         | SNC 52                                                         | 2014-01-17 17:58:30.081097
+ Boaring Music        | Lost_in_Security                  | astarisboarn                                                   | 2014-01-17 18:04:38.882011
+ one                  | disekt                            | snc 52                                                         | 2014-01-17 18:06:03.884918
+ Boaring Music        | pwnies                            | ASTARISBOARN                                                   | 2014-01-17 18:09:25.271875
+ one                  | WCSC                              | SNC 52                                                         | 2014-01-17 18:09:48.535419
+ DOS Attack           | Knightsec                         | loadall                                                        | 2014-01-17 18:12:31.919594
+ one                  | HappyBacking                      | SNC 52                                                         | 2014-01-17 18:13:53.810621
+ Boaring Music        | BatmansKitchen                    | ASTARISBOARN                                                   | 2014-01-17 18:16:11.726856
+ Boaring Music        | Eindbazen                         | astarisboarn                                                   | 2014-01-17 18:20:52.731917
+ Ad Subtract          | SpamAndHex Lite                   | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 18:18:04.006194
+ Boaring Music        | Delusions of Grandeur             | astarisboarn                                                   | 2014-01-17 18:22:30.988967
+ Boaring Music        | JustLooking                       | ASTARISBOARN                                                   | 2014-01-17 18:23:48.216148
+ Boaring Music        | uiaeosnrtdy                       | astarisboarn                                                   | 2014-01-17 18:24:15.627333
+ Boaring Music        | localmaximum                      | astarisboarn                                                   | 2014-01-17 18:24:31.958856
+ DOS Attack           | Paranoid Androids                 | LOADALL                                                        | 2014-01-17 18:26:09.822153
+ one                  | Hexcellents                       | snc 52                                                         | 2014-01-17 18:26:58.658994
+ lugkist              | samurai                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-17 18:27:43.506862
+ one                  | 1064CBread                        | snc 52                                                         | 2014-01-17 18:27:59.639224
+ Boaring Music        | natas                             | astarisboarn                                                   | 2014-01-17 18:28:57.033172
+ Boaring Music        | penthackon                        | ASTARISBOARN                                                   | 2014-01-17 18:30:55.254549
+ one                  | chkn_and_ROFLs                    | SNC 52                                                         | 2014-01-17 18:31:42.777015
+ one                  | _TMIH_                            | snc 52                                                         | 2014-01-17 18:32:37.074040
+ Moon Boots           | pwnies                            | Use a Tab, Space will leave you breathless                     | 2014-01-17 18:37:10.099524
+ Cave of Nope         | SpamAndHex Lite                   | At least it wasnt full of Creepers                             | 2014-01-17 18:41:19.433654
+ one                  | CSG                               | SNC 52                                                         | 2014-01-17 18:56:21.989837
+ one                  | helloworld                        | SNC 52                                                         | 2014-01-17 18:42:06.526367
+ Unbearable           | NULLify                           | The Drunken Master can bear any trial                          | 2014-01-17 18:58:36.134336
+ Boaring Music        | TracerTea                         | astarisboarn                                                   | 2014-01-17 18:51:56.453234
+ DOS Attack           | EpicLyons                         | loadall                                                        | 2014-01-17 18:49:53.103641
+ Unbearable           | Gungnir                           | The Drunken Master can bear any trial                          | 2014-01-17 18:57:48.652152
+ one                  | Brooklynt Overflow                | SNC 52                                                         | 2014-01-17 18:45:27.185068
+ one                  | ohnoes                            | SNC 52                                                         | 2014-01-17 18:48:11.601276
+ TI-1337              | tomcr00se                         | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 18:35:45.078652
+ Ad Subtract          | Eindbazen                         | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 18:40:39.914282
+ DOS Attack           | SomeRandomName                    | LOADALL                                                        | 2014-01-17 19:01:00.870543
+ DOS Attack           | 0x1337                            | LOADALL                                                        | 2014-01-17 18:36:41.672329
+ Boaring Music        | PPP                               | ASTARISBOARN                                                   | 2014-01-17 19:04:50.263706
+ one                  | CodeRed                           | snc 52                                                         | 2014-01-17 18:39:56.978827
+ DOS Attack           | ShellShocked                      | LOADALL                                                        | 2014-01-17 18:42:20.383719
+ Cave of Nope         | pwnies                            | At least it wasnt full of Creepers                             | 2014-01-17 18:56:37.108107
+ Unbearable           | Kernel Sanders                    | The Drunken Master can bear any trial                          | 2014-01-17 19:01:19.993152
+ one                  | smashthestack                     | SNC 52                                                         | 2014-01-17 18:44:09.136802
+ Unbearable           | Delusions of Grandeur             | The Drunken Master can bear any trial                          | 2014-01-17 18:58:42.201044
+ one                  | steev                             | SNC 52                                                         | 2014-01-17 19:01:56.218020
+ one                  | puh                               | SNC 52                                                         | 2014-01-17 18:42:44.691145
+ one                  | fragged                           | SNC 52                                                         | 2014-01-17 18:51:04.890081
+ one                  | pwnsh0pp3                         | snc 52                                                         | 2014-01-17 19:00:37.148923
+ Unbearable           | 0x8F                              | The Drunken Master can bear any trial                          | 2014-01-17 19:06:22.869468
+ Boaring Music        | Honeypot                          | ASTARISBOARN                                                   | 2014-01-17 19:05:38.419427
+ DOS Attack           | _TMIH_                            | LOADALL                                                        | 2014-01-17 19:07:21.471221
+ Boaring Music        | ECX Inc                           | astarisboarn                                                   | 2014-01-17 19:07:37.768340
+ Ad Subtract          | TracerTea                         | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 19:08:31.933766
+ DOS Attack           | 9447                              | LOADALL                                                        | 2014-01-17 19:10:13.278307
+ one                  | bacon                             | SNC 52                                                         | 2014-01-17 19:10:15.633198
+ Boaring Music        | RHSolo                            | astarisboarn                                                   | 2014-01-17 19:10:29.949583
+ one                  | ham@eur                           | SNC 52                                                         | 2014-01-17 19:11:23.580090
+ DOS Attack           | Brooklynt Overflow                | LOADALL                                                        | 2014-01-17 19:12:31.921542
+ DOS Attack           | uiaeosnrtdy                       | LOADALL                                                        | 2014-01-17 19:14:22.397045
+ one                  | B1ackTrac3                        | SNC 52                                                         | 2014-01-17 19:15:55.870949
+ Moon Boots           | StratumAuhuur                     | Use a Tab, Space will leave you breathless                     | 2014-01-17 19:19:14.766546
+ Moon Boots           | Dragon Sector                     | Use a Tab, Space will leave you breathless                     | 2014-01-17 19:53:34.930945
+ Boaring Music        | Big-Daddy                         | ASTARISBOARN                                                   | 2014-01-17 19:51:16.680791
+ Moon Boots           | ECX Inc                           | Use a Tab, Space will leave you breathless                     | 2014-01-17 20:03:10.746309
+ Boaring Music        | Snatch The Root                   | ASTARISBOARN                                                   | 2014-01-17 19:52:29.188932
+ DOS Attack           | RPISEC                            | LOADALL                                                        | 2014-01-17 19:18:09.450458
+ Boaring Music        | hazard                            | ASTARISBOARN                                                   | 2014-01-17 19:33:41.836424
+ lugkist              | schmoos                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-17 20:09:07.008149
+ Unbearable           | PPP                               | The Drunken Master can bear any trial                          | 2014-01-17 19:46:38.211349
+ one                  | iSO*                              | snc 52                                                         | 2014-01-17 19:33:43.243835
+ DOS Attack           | fish                              | loadall                                                        | 2014-01-17 19:46:05.819065
+ Unbearable           | Sploitz                           | The Drunken Master can bear any trial                          | 2014-01-17 20:04:24.016119
+ DOS Attack           | HappyBacking                      | LOADALL                                                        | 2014-01-17 19:27:29.541585
+ lugkist              | Robot Mafia                       | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-17 19:41:50.752323
+ one                  | chocholon                         | snc 52                                                         | 2014-01-17 19:25:36.106003
+ DOS Attack           | gn00bz                            | LOADALL                                                        | 2014-01-17 19:50:28.903728
+ DOS Attack           | More Smoked Leet Chicken          | LOADALL                                                        | 2014-01-17 19:56:17.707876
+ Ad Subtract          | ECX Inc                           | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 19:26:13.687694
+ Dogecrypt            | Team Wheatley                     | ShibeSuchDictionaryAttacksWow                                  | 2014-01-17 19:27:14.743010
+ Boaring Music        | TwoSixNine                        | astarisboarn                                                   | 2014-01-17 19:19:29.146977
+ Boaring Music        | 1064CBread                        | ASTARISBOARN                                                   | 2014-01-17 19:42:39.639422
+ Unbearable           | Pi Backwards                      | The Drunken Master can bear any trial                          | 2014-01-17 20:15:12.321263
+ Unbearable           | gon                               | The Drunken Master can bear any trial                          | 2014-01-17 20:15:28.424435
+ one                  | HighFive                          | SNC 52                                                         | 2014-01-17 20:16:48.838808
+ Boaring Music        | B1ackTrac3                        | astarisboarn                                                   | 2014-01-17 20:18:52.568328
+ Cave of Nope         | EpicLyons                         | At least it wasnt full of Creepers                             | 2014-01-17 20:19:33.173069
+ DOS Attack           | girav                             | LOADALL                                                        | 2014-01-17 20:20:03.992980
+ one                  | chantron                          | snc 52                                                         | 2014-01-17 20:21:25.066180
+ one                  | wolfden                           | snc 52                                                         | 2014-01-17 20:22:08.984529
+ Ad Subtract          | StratumAuhuur                     | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 20:22:51.812151
+ Moon Boots           | NULLify                           | Use a Tab, Space will leave you breathless                     | 2014-01-17 20:22:58.517826
+ Rabbit of Caerbannog | Knightsec                         | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-17 20:23:20.766836
+ Cave of Nope         | ECX Inc                           | At least it wasnt full of Creepers                             | 2014-01-17 20:24:39.295015
+ one                  | z3r0c00L                          | SNC 52                                                         | 2014-01-17 20:24:59.194717
+ DOS Attack           | Brilliant Wizards                 | loadall                                                        | 2014-01-17 20:29:14.180597
+ Boaring Music        | EpicLyons                         | ASTARISBOARN                                                   | 2014-01-17 20:29:53.117654
+ Cave of Nope         | NULLify                           | At least it wasnt full of Creepers                             | 2014-01-17 20:30:19.478693
+ Cave of Nope         | H4x0rPsch0rr                      | At least it wasnt full of Creepers                             | 2014-01-17 21:35:45.026346
+ DOS Attack           | wolfden                           | loadall                                                        | 2014-01-17 20:35:20.161528
+ Pillowtalk           | StratumAuhuur                     | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-17 21:18:27.656600
+ Cave of Nope         | Big-Daddy                         | At least it wasnt full of Creepers                             | 2014-01-17 20:50:10.089440
+ TI-1337              | TracerTea                         | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 21:21:48.107722
+ one                  | IJustWannaSeeTheFPS               | SNC 52                                                         | 2014-01-17 21:46:24.028120
+ Boaring Music        | Robot Mafia                       | astarisboarn                                                   | 2014-01-17 21:42:23.042991
+ Cave of Nope         | StratumAuhuur                     | At least it wasnt full of Creepers                             | 2014-01-17 21:55:53.131811
+ Boaring Music        | SomeRandomName                    | ASTARISBOARN                                                   | 2014-01-17 21:57:16.755455
+ one                  | vand                              | SNC 52                                                         | 2014-01-17 20:35:16.593466
+ Cave of Nope         | 0x8F                              | At least it wasnt full of Creepers                             | 2014-01-17 21:35:56.996675
+ TI-1337              | Memory Fist                       | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 21:51:12.325745
+ Cave of Nope         | National Swag Agency              | At least it wasnt full of Creepers                             | 2014-01-17 21:53:37.591816
+ Cave of Nope         | RPISEC                            | At least it wasnt full of Creepers                             | 2014-01-17 20:32:17.610334
+ Boaring Music        | AutoBits                          | ASTARISBOARN                                                   | 2014-01-17 21:12:05.857605
+ DOS Attack           | AutoBits                          | LOADALL                                                        | 2014-01-17 21:37:32.628945
+ Snow Down            | pwnies                            | Real pirates use Z3 not a cutlass                              | 2014-01-17 21:56:45.743957
+ one                  | gebl                              | snc 52                                                         | 2014-01-17 20:54:37.183362
+ Boaring Music        | gon                               | ASTARISBOARN                                                   | 2014-01-17 21:38:11.604643
+ Pillowtalk           | Eindbazen                         | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-17 21:24:05.644134
+ Moon Boots           | H4x0rPsch0rr                      | Use a Tab, Space will leave you breathless                     | 2014-01-17 21:35:54.255349
+ one                  | hazard                            | snc 52                                                         | 2014-01-17 21:47:46.778348
+ Moon Boots           | Zenk-Security                     | Use a Tab, Space will leave you breathless                     | 2014-01-17 21:48:23.917393
+ Pillowtalk           | tomcr00se                         | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-17 20:39:35.355793
+ one                  | Neg9                              | SNC 52                                                         | 2014-01-17 20:56:47.172250
+ Cave of Nope         | gon                               | At least it wasnt full of Creepers                             | 2014-01-17 20:59:03.430537
+ one                  | RooterX                           | SNC 52                                                         | 2014-01-17 21:28:40.956450
+ DOS Attack           | IJustWannaSeeTheFPS               | loadall                                                        | 2014-01-17 21:42:01.957408
+ DOS Attack           | Team Nullspace                    | loadall                                                        | 2014-01-17 21:48:44.251473
+ DOS Attack           | 1064CBread                        | loadall                                                        | 2014-01-17 21:04:39.397467
+ Unbearable           | StratumAuhuur                     | The Drunken Master can bear any trial                          | 2014-01-17 20:38:44.111968
+ Unbearable           | EpicLyons                         | The Drunken Master can bear any trial                          | 2014-01-17 20:49:49.697253
+ A Boaring Quest      | Big-Daddy                         | ZombieProcessesWillEatYourBrains                               | 2014-01-17 21:39:57.314053
+ Cave of Nope         | Delusions of Grandeur             | At least it wasnt full of Creepers                             | 2014-01-17 21:23:32.221689
+ Unbearable           | SpamAndHex Lite                   | The Drunken Master can bear any trial                          | 2014-01-17 21:26:33.377446
+ one                  | bamboo                            | SNC 52                                                         | 2014-01-17 21:27:54.270015
+ DOS Attack           | Masters of Puppets                | LOADALL                                                        | 2014-01-17 21:37:25.956423
+ Moon Boots           | gon                               | Use a Tab, Space will leave you breathless                     | 2014-01-17 20:39:11.628964
+ Boaring Music        | Team Nullspace                    | ASTARISBOARN                                                   | 2014-01-17 21:01:56.601271
+ one                  | room201                           | snc 52                                                         | 2014-01-17 21:30:44.902847
+ Ad Subtract          | Robot Mafia                       | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 21:09:35.403541
+ DOS Attack           | Hackdumb                          | LOADALL                                                        | 2014-01-17 21:20:10.116873
+ Moon Boots           | catbug                            | Use a Tab, Space will leave you breathless                     | 2014-01-17 21:59:29.834782
+ Moon Boots           | Squareroots                       | Use a Tab, Space will leave you breathless                     | 2014-01-17 22:03:27.136910
+ DOS Attack           | Shadow Cats                       | LOADALL                                                        | 2014-01-17 22:06:54.659874
+ lugkist              | Delusions of Grandeur             | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-17 22:09:06.486050
+ A Boaring Quest      | RPISEC                            | ZombieProcessesWillEatYourBrains                               | 2014-01-17 22:11:13.612454
+ Boaring Music        | Kernel Sanders                    | ASTARISBOARN                                                   | 2014-01-17 22:11:22.497522
+ TI-1337              | Robot Mafia                       | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 22:14:59.970433
+ Cave of Nope         | Squareroots                       | At least it wasnt full of Creepers                             | 2014-01-17 22:15:52.591585
+ Unbearable           | CSG                               | The Drunken Master can bear any trial                          | 2014-01-17 22:17:23.762850
+ one                  | 275o                              | snc 52                                                         | 2014-01-17 22:17:54.989650
+ Ad Subtract          | pwnies                            | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-17 22:19:56.102735
+ Moon Boots           | PPP                               | Use a Tab, Space will leave you breathless                     | 2014-01-17 22:53:16.068257
+ Boaring Music        | wolfden                           | astarisboarn                                                   | 2014-01-17 23:43:02.945430
+ one                  | riticalc                          | snc 52                                                         | 2014-01-17 22:43:49.131134
+ Boaring Music        | UberAnti                          | astarisboarn                                                   | 2014-01-17 23:24:27.892953
+ Cave of Nope         | PPP                               | At least it wasnt full of Creepers                             | 2014-01-17 22:55:49.898096
+ DOS Attack           | 0x4f                              | LOADALL                                                        | 2014-01-17 22:46:18.298659
+ TI-1337              | Delusions of Grandeur             | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 23:29:56.140833
+ one                  | Fatal_Error                       | SNC 52                                                         | 2014-01-17 23:35:09.150074
+ DOS Attack           | LeaveRet                          | LOADALL                                                        | 2014-01-17 22:33:59.411979
+ Unbearable           | sigint                            | The Drunken Master can bear any trial                          | 2014-01-17 22:49:26.912724
+ TI-1337              | H4x0rPsch0rr                      | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 22:49:58.257594
+ Rabbit of Caerbannog | SpamAndHex Lite                   | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-17 23:12:56.522925
+ one                  | l4m3rs_rebellion                  | SNC 52                                                         | 2014-01-17 23:18:41.058984
+ one                  | n0pe                              | snc 52                                                         | 2014-01-17 23:31:10.753542
+ one                  | m1k3                              | SNC 52                                                         | 2014-01-17 22:39:21.934999
+ one                  | _hAxel                            | SNC 52                                                         | 2014-01-17 22:44:23.577806
+ Unbearable           | H4x0rPsch0rr                      | The Drunken Master can bear any trial                          | 2014-01-17 23:08:02.853349
+ Cave of Nope         | sigint                            | At least it wasnt full of Creepers                             | 2014-01-17 23:10:47.656192
+ lugkist              | captchaflag                       | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-17 23:11:19.648206
+ one                  | SESI                              | SNC 52                                                         | 2014-01-17 23:29:15.293625
+ Dogecrypt            | 0wl                               | shibesuchdictionaryattackswow                                  | 2014-01-17 22:26:04.114580
+ one                  | Guardian                          | SNC 52                                                         | 2014-01-17 22:32:15.250642
+ DOS Attack           | RaymondStreet                     | LOADALL                                                        | 2014-01-17 23:41:13.860878
+ Dogecrypt            | dr0x0N                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-17 23:18:59.967405
+ Cave of Nope         | Robot Mafia                       | At least it wasnt full of Creepers                             | 2014-01-17 23:34:51.036487
+ DOS Attack           | foobar                            | loadall                                                        | 2014-01-17 23:36:31.481453
+ Moon Boots           | Robot Mafia                       | Use a Tab, Space will leave you breathless                     | 2014-01-17 23:12:33.253523
+ Dogecrypt            | Robot Mafia                       | ShibeSuchDictionaryAttacksWow                                  | 2014-01-17 22:45:38.872298
+ TI-1337              | PPP                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-17 22:52:44.193569
+ Boaring Music        | samurai                           | astarisboarn                                                   | 2014-01-17 23:02:11.240132
+ one                  | HeXA                              | SNC 52                                                         | 2014-01-17 23:45:46.337641
+ Cave of Nope         | Dragon Sector                     | At least it wasnt full of Creepers                             | 2014-01-17 22:31:41.833154
+ one                  | colors                            | snc 52                                                         | 2014-01-17 23:00:40.594100
+ DOS Attack           | SpamAndHex Lite                   | LOADALL                                                        | 2014-01-17 23:26:38.221509
+ one                  | UberAnti                          | snc 52                                                         | 2014-01-17 22:45:38.763873
+ A Boaring Quest      | SpamAndHex Lite                   | ZombieProcessesWillEatYourBrains                               | 2014-01-17 22:45:43.571576
+ one                  | /dev/null                         | SNC 52                                                         | 2014-01-17 23:44:13.623632
+ Snow Down            | PPP                               | Real pirates use Z3 not a cutlass                              | 2014-01-17 23:50:34.307253
+ DOS Attack           | ham@eur                           | loadall                                                        | 2014-01-17 23:52:38.664217
+ Unbearable           | n0l3ptr                           | The Drunken Master can bear any trial                          | 2014-01-17 23:55:40.661550
+ A Boaring Quest      | PPP                               | ZombieProcessesWillEatYourBrains                               | 2014-01-17 23:55:53.062838
+ Pillowtalk           | H4x0rPsch0rr                      | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-17 23:57:07.838132
+ one                  | Brilliant Wizards                 | SNC 52                                                         | 2014-01-17 23:58:55.205557
+ one                  | Eating 1337 RSA c00k13z           | snc 52                                                         | 2014-01-17 23:59:15.477743
+ Cave of Nope         | CSG                               | At least it wasnt full of Creepers                             | 2014-01-18 00:00:54.132071
+ Moon Boots           | RPISEC                            | Use a Tab, Space will leave you breathless                     | 2014-01-18 01:53:59.475416
+ one                  | RaymondStreet                     | SNC 52                                                         | 2014-01-18 00:25:57.592254
+ one                  | Team PURE                         | SNC 52                                                         | 2014-01-18 00:35:53.143110
+ TI-1337              | CodeRed                           | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 01:59:18.941755
+ DOS Attack           | brd                               | LOADALL                                                        | 2014-01-18 00:11:59.900744
+ A Boaring Quest      | Delusions of Grandeur             | ZombieProcessesWillEatYourBrains                               | 2014-01-18 01:15:59.140294
+ Cave of Nope         | Memory Fist                       | At least it wasnt full of Creepers                             | 2014-01-18 01:24:50.301973
+ Rabbit of Caerbannog | gon                               | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 01:45:18.445523
+ Boaring Music        | dcua                              | ASTARISBOARN                                                   | 2014-01-18 02:00:59.035037
+ TI-1337              | pwnies                            | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 00:21:30.496316
+ Boaring Music        | Failafel                          | ASTARISBOARN                                                   | 2014-01-18 01:28:12.536216
+ Unbearable           | RPISEC                            | The Drunken Master can bear any trial                          | 2014-01-18 02:02:55.708347
+ Boaring Music        | Knightsec                         | astarisboarn                                                   | 2014-01-18 00:37:24.829165
+ Dogecrypt            | Memory Fist                       | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 00:01:31.257898
+ one                  | SegFault                          | snc 52                                                         | 2014-01-18 00:18:00.867402
+ one                  | MeAgain                           | snc 52                                                         | 2014-01-18 00:29:03.735991
+ Unbearable           | Memory Fist                       | The Drunken Master can bear any trial                          | 2014-01-18 00:05:51.855466
+ Pillowtalk           | More Smoked Leet Chicken          | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 01:02:34.671998
+ one                  | 217                               | SNC 52                                                         | 2014-01-18 01:40:35.930050
+ Moon Boots           | CSG                               | Use a Tab, Space will leave you breathless                     | 2014-01-18 00:17:06.864067
+ Boaring Music        | plsno D:                          | astarisboarn                                                   | 2014-01-18 00:43:49.358153
+ TI-1337              | Dragon Sector                     | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 00:50:11.823512
+ Boaring Music        | 9447                              | astarisboarn                                                   | 2014-01-18 01:10:49.246435
+ Boaring Music        | HackingForSoju                    | astarisboarn                                                   | 2014-01-18 00:03:08.298312
+ lugkist              | Guardian                          | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 00:21:25.102187
+ Pillowtalk           | vand                              | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 00:26:32.320084
+ Boaring Music        | vand                              | astarisboarn                                                   | 2014-01-18 00:52:41.373510
+ Moon Boots           | bacon                             | Use a Tab, Space will leave you breathless                     | 2014-01-18 00:56:02.755385
+ Cave of Nope         | bacon                             | At least it wasnt full of Creepers                             | 2014-01-18 01:04:12.896608
+ Boaring Music        | test                              | astarisboarn                                                   | 2014-01-18 01:04:46.054008
+ Cave of Nope         | Zenk-Security                     | At least it wasnt full of Creepers                             | 2014-01-18 01:09:23.433346
+ TI-1337              | 217                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 01:27:36.073369
+ Moon Boots           | Masters of Puppets                | Use a Tab, Space will leave you breathless                     | 2014-01-18 01:42:36.924225
+ Boaring Music        | RPISEC                            | ASTARISBOARN                                                   | 2014-01-18 01:58:39.406446
+ one                  | ming                              | SNC 52                                                         | 2014-01-18 00:17:58.642883
+ Unbearable           | Squareroots                       | The Drunken Master can bear any trial                          | 2014-01-18 00:53:06.567991
+ A Boaring Quest      | gon                               | ZombieProcessesWillEatYourBrains                               | 2014-01-18 01:36:22.139905
+ Moon Boots           | Gungnir                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 01:21:19.848848
+ Cave of Nope         | The Cat is #1!!                   | At least it wasnt full of Creepers                             | 2014-01-18 01:22:51.571443
+ Cave of Nope         | Gungnir                           | At least it wasnt full of Creepers                             | 2014-01-18 01:29:38.535875
+ Unbearable           | National Swag Agency              | The Drunken Master can bear any trial                          | 2014-01-18 00:17:18.007987
+ A Boaring Quest      | n0l3ptr                           | ZombieProcessesWillEatYourBrains                               | 2014-01-18 00:33:36.844937
+ Boaring Music        | Hexcellents                       | ASTARISBOARN                                                   | 2014-01-18 01:44:32.322640
+ Moon Boots           | The Cat is #1!!                   | Use a Tab, Space will leave you breathless                     | 2014-01-18 00:30:01.651754
+ one                  | mau5                              | SNC 52                                                         | 2014-01-18 01:42:39.581905
+ one                  | keva                              | snc 52                                                         | 2014-01-18 00:57:39.592193
+ Moon Boots           | samurai                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 02:09:50.630910
+ Unbearable           | WeLoveCP                          | The Drunken Master can bear any trial                          | 2014-01-18 02:11:51.564517
+ A Boaring Quest      | ECX Inc                           | ZombieProcessesWillEatYourBrains                               | 2014-01-18 02:15:12.187815
+ DOS Attack           | gon                               | LOADALL                                                        | 2014-01-18 02:18:42.783297
+ Unbearable           | The Cat is #1!!                   | The Drunken Master can bear any trial                          | 2014-01-18 02:23:30.280895
+ TI-1337              | sigint                            | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 02:25:58.340651
+ Pillowtalk           | Shadow Cats                       | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 02:31:32.495923
+ Cave of Nope         | samurai                           | At least it wasnt full of Creepers                             | 2014-01-18 02:31:47.962941
+ lugkist              | vand                              | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 02:32:27.676710
+ DOS Attack           | n0l3ptr                           | LOADALL                                                        | 2014-01-18 02:33:20.281540
+ A Boaring Quest      | Robot Mafia                       | ZombieProcessesWillEatYourBrains                               | 2014-01-18 02:36:24.901449
+ one                  | Hat Tricks                        | SNC 52                                                         | 2014-01-18 02:36:46.619078
+ DOS Attack           | TwoSixNine                        | loadall                                                        | 2014-01-18 02:38:24.805106
+ Rabbit of Caerbannog | Robot Mafia                       | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 03:02:35.297364
+ Boaring Music        | Memory Fist                       | astarisboarn                                                   | 2014-01-18 03:11:18.596540
+ Boaring Music        | tomcr00se                         | ASTARISBOARN                                                   | 2014-01-18 04:04:49.447303
+ Moon Boots           | WeLoveCP                          | Use a Tab, Space will leave you breathless                     | 2014-01-18 04:25:51.572177
+ Cave of Nope         | tomcr00se                         | At least it wasnt full of Creepers                             | 2014-01-18 02:54:52.600819
+ one                  | sakichihime                       | SNC 52                                                         | 2014-01-18 03:35:05.714011
+ one                  | 0x4f                              | SNC 52                                                         | 2014-01-18 02:41:07.716994
+ one                  | Team 84bit                        | SNC 52                                                         | 2014-01-18 02:42:27.726764
+ one                  | QBiT                              | SNC 52                                                         | 2014-01-18 03:52:02.998051
+ Moon Boots           | sigint                            | Use a Tab, Space will leave you breathless                     | 2014-01-18 04:19:19.506195
+ Pillowtalk           | 9447                              | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 02:41:47.592317
+ Dogecrypt            | gn00bz                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 03:28:50.772136
+ Unbearable           | Robot Mafia                       | The Drunken Master can bear any trial                          | 2014-01-18 03:39:26.689130
+ Snow Down            | StratumAuhuur                     | Real pirates use Z3 not a cutlass                              | 2014-01-18 02:48:52.957416
+ one                  | CWST                              | SNC 52                                                         | 2014-01-18 02:50:01.062713
+ Boaring Music        | MMA                               | astarisboarn                                                   | 2014-01-18 02:57:32.983400
+ one                  | kebab                             | SNC 52                                                         | 2014-01-18 03:18:49.423763
+ DOS Attack           | Magic-Hand                        | loadall                                                        | 2014-01-18 03:25:25.668623
+ DOS Attack           | mau5                              | LOADALL                                                        | 2014-01-18 03:22:01.868369
+ one                  | WhatTheHack                       | snc 52                                                         | 2014-01-18 03:53:44.646648
+ one                  | botbie                            | SNC 52                                                         | 2014-01-18 03:01:10.198383
+ TI-1337              | samurai                           | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 03:08:46.982866
+ DOS Attack           | vand                              | LOADALL                                                        | 2014-01-18 03:12:54.837699
+ Moon Boots           | Fizzy's Team                      | Use a Tab, Space will leave you breathless                     | 2014-01-18 04:21:52.677866
+ Boaring Music        | Squareroots                       | ASTARISBOARN                                                   | 2014-01-18 04:25:12.310719
+ Long live the Queen  | vand                              | theycallmethephasebeast                                        | 2014-01-18 04:03:19.910482
+ DOS Attack           | gebl                              | LOADALL                                                        | 2014-01-18 03:14:43.279557
+ lugkist              | Shadow Cats                       | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 03:14:25.839415
+ one                  | SoL                               | SNC 52                                                         | 2014-01-18 03:39:53.261024
+ Boaring Music        | SegFault                          | astarisboarn                                                   | 2014-01-18 04:21:30.295739
+ Boaring Music        | Guardian                          | astarisboarn                                                   | 2014-01-18 04:09:48.728348
+ one                  | cyberkastike                      | snc 52                                                         | 2014-01-18 04:17:50.156511
+ gitsmsg              | PPP                               | lol, tagged unions for the WIN!                                | 2014-01-18 04:13:04.034536
+ Boaring Music        | QBiT                              | astarisboarn                                                   | 2014-01-18 02:53:35.910594
+ DOS Attack           | mongii                            | LOADALL                                                        | 2014-01-18 03:35:56.272472
+ DOS Attack           | ufologists                        | LOADALL                                                        | 2014-01-18 03:32:33.510249
+ Cave of Nope         | WeLoveCP                          | At least it wasnt full of Creepers                             | 2014-01-18 04:29:23.959252
+ Cave of Nope         | Fizzy's Team                      | At least it wasnt full of Creepers                             | 2014-01-18 04:31:38.931279
+ one                  | not_w                             | SNC 52                                                         | 2014-01-18 04:37:41.172702
+ DOS Attack           | hDs                               | LOADALL                                                        | 2014-01-18 04:38:05.454768
+ one                  | dsu                               | SNC 52                                                         | 2014-01-18 04:40:52.036104
+ Boaring Music        | Shadow Cats                       | astarisboarn                                                   | 2014-01-18 04:41:24.738376
+ one                  | 0xbadf00d                         | SNC 52                                                         | 2014-01-18 04:42:48.245576
+ Moon Boots           | 1338-offbyone                     | Use a Tab, Space will leave you breathless                     | 2014-01-18 04:47:14.889930
+ one                  | Thufir's Heros                    | SNC 52                                                         | 2014-01-18 05:49:48.011998
+ TI-1337              | zzzanyuh                          | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 06:02:46.489163
+ Boaring Music        | ShellShocked                      | ASTARISBOARN                                                   | 2014-01-18 06:43:32.804740
+ Boaring Music        | 4321                              | ASTARISBOARN                                                   | 2014-01-18 05:54:00.783863
+ Boaring Music        | Tasteless                         | ASTARISBOARN                                                   | 2014-01-18 05:27:02.945763
+ Boaring Music        | HappyBacking                      | astarisboarn                                                   | 2014-01-18 05:44:41.520105
+ one                  | sft                               | SNC 52                                                         | 2014-01-18 06:08:01.200246
+ one                  | Loser                             | SNC 52                                                         | 2014-01-18 05:42:40.567588
+ Ad Subtract          | MMA                               | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 05:58:39.216505
+ DOS Attack           | EpicTeam                          | LOADALL                                                        | 2014-01-18 06:49:06.609726
+ DOS Attack           | JollyJackson                      | loadall                                                        | 2014-01-18 04:59:11.495200
+ TI-1337              | w3stormz                          | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 05:12:37.961205
+ one                  | Traditional Breakfast             | SNC 52                                                         | 2014-01-18 06:00:02.965019
+ A Boaring Quest      | StratumAuhuur                     | ZombieProcessesWillEatYourBrains                               | 2014-01-18 06:33:52.207909
+ Boaring Music        | 1234                              | ASTARISBOARN                                                   | 2014-01-18 05:14:09.459349
+ Boaring Music        | 0x8F                              | astarisboarn                                                   | 2014-01-18 05:50:30.583020
+ Cave of Nope         | Hexcellents                       | At least it wasnt full of Creepers                             | 2014-01-18 06:08:03.954674
+ Cave of Nope         | TRex                              | At least it wasnt full of Creepers                             | 2014-01-18 05:42:03.025110
+ Rabbit of Caerbannog | PPP                               | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 05:05:03.790855
+ DOS Attack           | n2r                               | LOADALL                                                        | 2014-01-18 05:35:11.424775
+ Pillowtalk           | PPP                               | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 05:45:48.795232
+ Moon Boots           | Koibasta                          | Use a Tab, Space will leave you breathless                     | 2014-01-18 05:47:08.529903
+ DOS Attack           | smashthestack                     | LOADALL                                                        | 2014-01-18 06:43:26.593046
+ one                  | vulcans                           | SNC 52                                                         | 2014-01-18 04:47:09.682673
+ DOS Attack           | 4321                              | LOADALL                                                        | 2014-01-18 05:54:32.568383
+ DOS Attack           | whatteam                          | loadall                                                        | 2014-01-18 06:00:31.722708
+ Cave of Nope         | Team Nullspace                    | At least it wasnt full of Creepers                             | 2014-01-18 06:07:37.395677
+ Moon Boots           | penthackon                        | Use a Tab, Space will leave you breathless                     | 2014-01-18 06:35:06.016096
+ Boaring Music        | Thufir's Heros                    | ASTARISBOARN                                                   | 2014-01-18 06:36:15.671027
+ Boaring Music        | SUSlo.PAS                         | ASTARISBOARN                                                   | 2014-01-18 06:37:54.502908
+ DOS Attack           | 1234                              | LOADALL                                                        | 2014-01-18 05:17:58.529903
+ one                  | lesboverflow                      | SNC 52                                                         | 2014-01-18 05:43:22.815693
+ A Boaring Quest      | Squareroots                       | ZombieProcessesWillEatYourBrains                               | 2014-01-18 06:04:42.492896
+ one                  | Entr0pia                          | SNC 52                                                         | 2014-01-18 05:17:27.867009
+ Pillowtalk           | Memory Fist                       | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 05:36:59.445782
+ Dogecrypt            | bamboo                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 06:03:20.874349
+ Moon Boots           | Tasteless                         | Use a Tab, Space will leave you breathless                     | 2014-01-18 06:27:00.160003
+ Cave of Nope         | penthackon                        | At least it wasnt full of Creepers                             | 2014-01-18 05:04:29.453679
+ TI-1337              | bamboo                            | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 05:17:36.671751
+ one                  | PoisonedBYTES                     | SNC 52                                                         | 2014-01-18 06:48:55.977198
+ Rabbit of Caerbannog | sigint                            | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 05:19:29.056495
+ one                  | Atrakcyjny Kazimierz              | snc 52                                                         | 2014-01-18 05:56:57.836728
+ DOS Attack           | Guardian                          | LOADALL                                                        | 2014-01-18 05:03:31.412837
+ A Boaring Quest      | 0x8F                              | ZombieProcessesWillEatYourBrains                               | 2014-01-18 05:35:51.123016
+ DOS Attack           | CodeRed                           | loadall                                                        | 2014-01-18 06:09:38.031602
+ TI-1337              | sutegoma2                         | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 06:15:05.431185
+ one                  | tonko2                            | SNC 52                                                         | 2014-01-18 05:33:13.233387
+ Boaring Music        | ufologists                        | astarisboarn                                                   | 2014-01-18 05:34:09.921695
+ one                  | team_playerz                      | SNC 52                                                         | 2014-01-18 05:50:20.680201
+ Dogecrypt            | TRex                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 06:08:30.255999
+ Cave of Nope         | Tasteless                         | At least it wasnt full of Creepers                             | 2014-01-18 06:42:22.411142
+ Dogecrypt            | 0xbadf00d                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 06:48:35.252494
+ Moon Boots           | TRex                              | Use a Tab, Space will leave you breathless                     | 2014-01-18 06:50:21.509928
+ Moon Boots           | ReallyBalalaikaFoRDot             | Use a Tab, Space will leave you breathless                     | 2014-01-18 06:51:41.013583
+ one                  | ztlts                             | SNC 52                                                         | 2014-01-18 06:55:02.981313
+ Moon Boots           | MMA                               | Use a Tab, Space will leave you breathless                     | 2014-01-18 06:59:25.633159
+ DOS Attack           | weed and beer                     | LOADALL                                                        | 2014-01-18 07:03:10.291207
+ DOS Attack           | PizzaEaters                       | loadall                                                        | 2014-01-18 07:10:23.854912
+ one                  | Kamazi                            | snc 52                                                         | 2014-01-18 08:51:35.320931
+ Cave of Nope         | HappyBacking                      | At least it wasnt full of Creepers                             | 2014-01-18 09:35:02.894340
+ Cave of Nope         | More Smoked Leet Chicken          | At least it wasnt full of Creepers                             | 2014-01-18 10:19:49.470964
+ one                  | tidalwave                         | snc 52                                                         | 2014-01-18 07:24:47.507622
+ Moon Boots           | whatteam                          | Use a Tab, Space will leave you breathless                     | 2014-01-18 10:09:55.219184
+ Dogecrypt            | smashthestack                     | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 07:23:18.662430
+ Pillowtalk           | Dragon Sector                     | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 07:43:41.288832
+ Cave of Nope         | ReallyBalalaikaFoRDot             | At least it wasnt full of Creepers                             | 2014-01-18 07:49:49.233818
+ one                  | sec0d1                            | SNC 52                                                         | 2014-01-18 08:30:49.175461
+ Boaring Music        | FluxFingers                       | ASTARISBOARN                                                   | 2014-01-18 08:31:17.523134
+ Cave of Nope         | Koibasta                          | At least it wasnt full of Creepers                             | 2014-01-18 08:31:22.011165
+ A Boaring Quest      | penthackon                        | ZombieProcessesWillEatYourBrains                               | 2014-01-18 09:19:00.248893
+ Boaring Music        | SpamAndHex Lite                   | ASTARISBOARN                                                   | 2014-01-18 09:23:49.522933
+ TI-1337              | 0x8F                              | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 09:32:06.935656
+ Boaring Music        | LeaveRet                          | ASTARISBOARN                                                   | 2014-01-18 09:56:36.349004
+ one                  | Apoptosis                         | SNC 52                                                         | 2014-01-18 10:22:14.416892
+ Moon Boots           | More Smoked Leet Chicken          | Use a Tab, Space will leave you breathless                     | 2014-01-18 07:49:28.473047
+ A Boaring Quest      | SUSlo.PAS                         | ZombieProcessesWillEatYourBrains                               | 2014-01-18 09:33:47.607797
+ one                  | Razgriz                           | SNC 52                                                         | 2014-01-18 10:01:33.426666
+ Ad Subtract          | penthackon                        | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 10:11:53.862823
+ Pillowtalk           | penthackon                        | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 10:21:43.897557
+ one                  | smoked_bacon_stripes              | snc 52                                                         | 2014-01-18 07:24:59.681807
+ DOS Attack           | XOROR                             | LOADALL                                                        | 2014-01-18 07:34:09.147129
+ A Boaring Quest      | n2r                               | ZombieProcessesWillEatYourBrains                               | 2014-01-18 10:10:11.852657
+ Dogecrypt            | XOROR                             | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 09:46:33.338240
+ Moon Boots           | CodeRed                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 10:09:04.535589
+ Cave of Nope         | CodeRed                           | At least it wasnt full of Creepers                             | 2014-01-18 10:28:33.226052
+ DOS Attack           | securinets                        | loadall                                                        | 2014-01-18 08:14:49.810386
+ Boaring Music        | Bit0n                             | ASTARISBOARN                                                   | 2014-01-18 07:45:59.673930
+ one                  | FluxFingers                       | SNC 52                                                         | 2014-01-18 07:54:14.094547
+ Boaring Music        | mishutka                          | ASTARISBOARN                                                   | 2014-01-18 08:06:04.495391
+ one                  | SiBears                           | SNC 52                                                         | 2014-01-18 08:03:26.643382
+ one                  | sec0d                             | SNC 52                                                         | 2014-01-18 08:37:57.632737
+ Moon Boots           | ShellShocked                      | Use a Tab, Space will leave you breathless                     | 2014-01-18 08:44:51.072707
+ one                  | XOROR                             | SNC 52                                                         | 2014-01-18 07:09:05.966915
+ Cave of Nope         | cth2                              | At least it wasnt full of Creepers                             | 2014-01-18 07:54:05.767083
+ Dogecrypt            | ReallyBalalaikaFoRDot             | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 07:56:41.742761
+ lugkist              | SpamAndHex Lite                   | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 09:18:57.462803
+ Cave of Nope         | MMA                               | At least it wasnt full of Creepers                             | 2014-01-18 09:19:04.225475
+ Pillowtalk           | pwnies                            | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 09:41:14.103411
+ Boaring Music        | 0xbadf00d                         | ASTARISBOARN                                                   | 2014-01-18 09:59:22.155164
+ lugkist              | gon                               | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 10:10:30.031477
+ Dogecrypt            | penthackon                        | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 07:12:32.469377
+ Unbearable           | TRex                              | The drunken master can bear any trial                          | 2014-01-18 07:56:58.021526
+ DOS Attack           | bamboo                            | LOADALL                                                        | 2014-01-18 09:55:24.644585
+ Boaring Music        | Doraemon.Sk8ers                   | ASTARISBOARN                                                   | 2014-01-18 09:55:34.405138
+ Cave of Nope         | FluxFingers                       | At least it wasnt full of Creepers                             | 2014-01-18 09:56:46.235285
+ one                  | Hallam                            | snc 52                                                         | 2014-01-18 10:01:22.801411
+ Unbearable           | cth2                              | The Drunken Master can bear any trial                          | 2014-01-18 07:50:31.708266
+ DOS Attack           | cth2                              | loadall                                                        | 2014-01-18 07:55:49.125714
+ Dogecrypt            | More Smoked Leet Chicken          | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 09:46:24.863407
+ Moon Boots           | FluxFingers                       | Use a Tab, Space will leave you breathless                     | 2014-01-18 09:58:36.179771
+ TI-1337              | loco                              | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 10:17:57.209188
+ one                  | A-CTF                             | SNC 52                                                         | 2014-01-18 07:12:04.533854
+ Pillowtalk           | w3stormz                          | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 10:06:27.318407
+ lugkist              | EpsilonDelta                      | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 07:19:09.713095
+ DOS Attack           | hazard                            | LOADALL                                                        | 2014-01-18 08:01:18.078737
+ TI-1337              | Hexcellents                       | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 09:44:12.106100
+ Moon Boots           | schmoos                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 10:30:53.363482
+ lugkist              | RFP                               | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 10:32:13.467437
+ Dogecrypt            | Dragon Sector                     | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 10:37:52.180022
+ DOS Attack           | H4x0rPsch0rr                      | loadall                                                        | 2014-01-18 10:39:13.293977
+ Cave of Nope         | SUSlo.PAS                         | At least it wasnt full of Creepers                             | 2014-01-18 10:40:12.599577
+ gitsmsg              | pwnies                            | lol, tagged unions for the WIN!                                | 2014-01-18 10:40:42.494559
+ Boaring Music        | Donkface                          | ASTARISBOARN                                                   | 2014-01-18 10:42:18.599625
+ Unbearable           | pwnies                            | The Drunken Master can bear any trial                          | 2014-01-18 10:48:31.413682
+ Boaring Music        | OGT                               | ASTARISBOARN                                                   | 2014-01-18 10:53:33.038766
+ Boaring Music        | disekt                            | ASTARISBOARN                                                   | 2014-01-18 10:57:09.082062
+ A Boaring Quest      | H4x0rPsch0rr                      | ZombieProcessesWillEatYourBrains                               | 2014-01-18 10:57:19.093680
+ DOS Attack           | pwnstars                          | LOADALL                                                        | 2014-01-18 11:00:45.817080
+ one                  | pwnstars                          | SNC 52                                                         | 2014-01-18 11:04:11.157046
+ one                  | loco                              | SNC 52                                                         | 2014-01-18 11:04:38.058238
+ TrustMeMore          | pwnies                            | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 14:14:40.690855
+ Ad Subtract          | H4x0rPsch0rr                      | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 11:17:08.183488
+ lugkist              | pwnies                            | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 12:07:09.271733
+ Unbearable           | Hexcellents                       | The Drunken Master can bear any trial                          | 2014-01-18 12:28:57.384741
+ Boaring Music        | Team Action Kaktus                | ASTARISBOARN                                                   | 2014-01-18 12:46:54.237474
+ Cave of Nope         | schmoos                           | At least it wasnt full of Creepers                             | 2014-01-18 13:11:24.863577
+ DOS Attack           | captchaflag                       | LOADALL                                                        | 2014-01-18 13:33:33.232234
+ DOS Attack           | LSE                               | loadall                                                        | 2014-01-18 13:47:32.210446
+ TI-1337              | n2r                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 13:56:08.866346
+ DOS Attack           | MadHatters                        | LOADALL                                                        | 2014-01-18 12:44:32.676232
+ Portal               | TracerTea                         | Cave Johnson hates Black Mesa                                  | 2014-01-18 12:48:31.967674
+ A Boaring Quest      | TRex                              | ZombieProcessesWillEatYourBrains                               | 2014-01-18 14:25:52.920404
+ one                  | gszo123                           | SNC 52                                                         | 2014-01-18 11:07:25.810122
+ Cave of Nope         | catbug                            | At least it wasnt full of Creepers                             | 2014-01-18 11:42:45.495906
+ lugkist              | TracerTea                         | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 11:50:57.417333
+ Unbearable           | catbug                            | The Drunken Master can bear any trial                          | 2014-01-18 12:38:43.935148
+ TrustMeMore          | SpamAndHex Lite                   | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 13:36:29.980199
+ lugkist              | sigint                            | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 13:45:56.128773
+ TI-1337              | Eindbazen                         | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 11:09:12.046624
+ one                  | Ne0Lux-C1Ph3r                     | SNC 52                                                         | 2014-01-18 12:12:10.424844
+ TrustMeMore          | Dragon Sector                     | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 12:20:38.297328
+ Unbearable           | More Smoked Leet Chicken          | The Drunken Master can bear any trial                          | 2014-01-18 12:25:14.046368
+ Pillowtalk           | samurai                           | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 12:58:09.915535
+ Unbearable           | FluxFingers                       | The Drunken Master can bear any trial                          | 2014-01-18 12:38:45.931833
+ TrustMeMore          | Eindbazen                         | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 13:47:13.333837
+ Dogecrypt            | hazard                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 14:04:08.757146
+ Dogecrypt            | samurai                           | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 14:04:47.215598
+ lugkist              | penthackon                        | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 14:36:14.094417
+ Ad Subtract          | Tasteless                         | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 11:20:36.454848
+ one                  | 4321                              | SNC 52                                                         | 2014-01-18 11:40:53.387995
+ Ad Subtract          | NULLify                           | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 12:54:00.375980
+ TI-1337              | Team Wheatley                     | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 13:58:09.146024
+ Snow Down            | Dragon Sector                     | Real pirates use Z3 not a cutlass                              | 2014-01-18 14:30:31.562888
+ Pillowtalk           | 0x8F                              | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 13:31:10.496691
+ Snow Down            | gon                               | Real pirates use Z3 not a cutlass                              | 2014-01-18 11:11:51.672460
+ DOS Attack           | Cast Party                        | LOADALL                                                        | 2014-01-18 11:52:44.120045
+ lugkist              | int3pids                          | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 11:55:10.382139
+ TI-1337              | More Smoked Leet Chicken          | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 11:28:13.060710
+ lugkist              | More Smoked Leet Chicken          | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 11:53:46.954458
+ DOS Attack           | pwnies                            | LOADALL                                                        | 2014-01-18 11:56:46.789114
+ Ad Subtract          | EpicLyons                         | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 12:06:27.959056
+ TI-1337              | Guardian                          | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 12:20:45.641439
+ Moon Boots           | Snatch The Root                   | Use a Tab, Space will leave you breathless                     | 2014-01-18 14:02:39.422634
+ Boaring Music        | fragged                           | ASTARISBOARN                                                   | 2014-01-18 11:56:14.327028
+ Portal               | 0x8F                              | Cave Johnson hates Black Mesa                                  | 2014-01-18 11:37:04.040720
+ A Boaring Quest      | pwnies                            | ZombieProcessesWillEatYourBrains                               | 2014-01-18 12:49:11.034170
+ Pillowtalk           | Pi Backwards                      | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 13:11:20.710954
+ Rabbit of Caerbannog | pwnies                            | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 13:30:54.989798
+ Dogecrypt            | OGT                               | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:56:56.122430
+ DOS Attack           | Rea1337yKings                     | LOADALL                                                        | 2014-01-18 11:53:55.680315
+ Dogecrypt            | pwnstars                          | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:12:03.105475
+ Dogecrypt            | Tasteless                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 11:35:48.956220
+ Dogecrypt            | H4x0rPsch0rr                      | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:47:36.320727
+ one                  | SIGILL                            | SNC 52                                                         | 2014-01-18 13:51:24.987075
+ lugkist              | Dragon Sector                     | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 14:20:47.032745
+ Moon Boots           | sheepfish                         | Use a Tab, Space will leave you breathless                     | 2014-01-18 13:31:31.454206
+ Rabbit of Caerbannog | penthackon                        | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 13:49:09.494403
+ lugkist              | StratumAuhuur                     | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 12:22:32.130500
+ lugkist              | Hexcellents                       | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 12:22:57.184456
+ Dogecrypt            | ufologists                        | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:03:49.953760
+ Boaring Music        | lesboverflow                      | ASTARISBOARN                                                   | 2014-01-18 13:22:02.306468
+ lugkist              | SomeRandomName                    | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 13:37:05.844529
+ Cave of Nope         | sheepfish                         | At least it wasnt full of Creepers                             | 2014-01-18 14:00:02.913096
+ Dogecrypt            | HackingForSoju                    | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 11:49:18.763217
+ Dogecrypt            | RDotOrg                           | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 11:51:10.718290
+ Cave of Nope         | Hackdumb                          | At least it wasnt full of Creepers                             | 2014-01-18 12:00:32.155542
+ Dogecrypt            | n2r                               | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:15:43.803477
+ Ad Subtract          | More Smoked Leet Chicken          | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 13:46:40.326340
+ Dogecrypt            | PPP                               | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:58:07.758657
+ Rabbit of Caerbannog | SUSlo.PAS                         | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 11:20:07.687357
+ Moon Boots           | Lost_in_Security                  | Use a Tab, Space will leave you breathless                     | 2014-01-18 11:39:10.503246
+ Dogecrypt            | w3stormz                          | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 13:00:34.372748
+ one                  | hopjesvla                         | snc 52                                                         | 2014-01-18 13:30:02.881421
+ lugkist              | ddaa                              | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 13:35:55.555347
+ one                  | ddaa                              | SNC 52                                                         | 2014-01-18 13:40:12.774070
+ lugkist              | EducatedErrander                  | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 11:31:29.368877
+ Ad Subtract          | Delusions of Grandeur             | adblockedhaveasillymooseanyway                                 | 2014-01-18 12:23:46.860937
+ A Boaring Quest      | Knightsec                         | ZombieProcessesWillEatYourBrains                               | 2014-01-18 13:50:29.750663
+ TrustMeMore          | More Smoked Leet Chicken          | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 14:19:10.697632
+ one                  | Kimchi.TwerkBombz                 | SNC 52                                                         | 2014-01-18 14:27:29.286923
+ one                  | blue-lotus                        | SNC 52                                                         | 2014-01-18 11:38:05.454431
+ Cave of Nope         | ShellShocked                      | At least it wasnt full of Creepers                             | 2014-01-18 11:56:33.349747
+ Boaring Music        | H4x0rPsch0rr                      | astarisboarn                                                   | 2014-01-18 12:05:17.079390
+ lugkist              | 0x8F                              | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 13:54:12.140499
+ Moon Boots           | SIGILL                            | Use a Tab, Space will leave you breathless                     | 2014-01-18 14:17:24.718081
+ one                  | MadHatters                        | snc 52                                                         | 2014-01-18 12:02:40.500175
+ Boaring Music        | RDotOrg                           | ASTARISBOARN                                                   | 2014-01-18 12:29:11.680214
+ DOS Attack           | team_playerz                      | LOADALL                                                        | 2014-01-18 13:16:01.054275
+ Boaring Music        | SIGILL                            | astarisboarn                                                   | 2014-01-18 13:58:12.978028
+ Boaring Music        | schmoos                           | astarisboarn                                                   | 2014-01-18 14:15:56.502273
+ Moon Boots           | Knightsec                         | Use a Tab, Space will leave you breathless                     | 2014-01-18 14:40:31.909855
+ gitsmsg              | tomcr00se                         | lol, tagged unions for the WIN!                                | 2014-01-18 14:41:58.238429
+ Pillowtalk           | int3pids                          | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 14:42:50.509218
+ TrustMeMore          | PPP                               | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 14:43:36.356633
+ Unbearable           | Team Nullspace                    | The Drunken Master can bear any trial                          | 2014-01-18 14:45:10.301024
+ Portal               | Eindbazen                         | Cave Johnson hates Black Mesa                                  | 2014-01-18 14:48:32.135103
+ lugkist              | RPISEC                            | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 14:50:30.566497
+ Dogecrypt            | SomeRandomName                    | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 15:10:17.824814
+ Boaring Music        | TheBee'sKnees                     | astarisboarn                                                   | 2014-01-18 15:40:53.754253
+ Cave of Nope         | fragged                           | At least it wasnt full of Creepers                             | 2014-01-18 15:35:18.992125
+ Boaring Music        | Buildism                          | ASTARISBOARN                                                   | 2014-01-18 15:30:27.066943
+ Rabbit of Caerbannog | Dragon Sector                     | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 15:31:52.337200
+ Pillowtalk           | SegFault                          | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 14:52:51.935013
+ TrustMeMore          | tomcr00se                         | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 15:46:53.624493
+ Boaring Music        | captchaflag                       | ASTARISBOARN                                                   | 2014-01-18 15:25:46.204214
+ one                  | TheBee'sKnees                     | snc 52                                                         | 2014-01-18 14:53:50.293922
+ TrustMeMore          | samurai                           | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 15:26:17.309888
+ Rabbit of Caerbannog | Big-Daddy                         | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 14:53:52.708227
+ DOS Attack           | SUSlo.PAS                         | LOADALL                                                        | 2014-01-18 15:36:27.012026
+ Dogecrypt            | Neg9                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 15:34:31.298027
+ Moon Boots           | 0x8F                              | Use a Tab, Space will leave you breathless                     | 2014-01-18 15:09:13.031639
+ Boaring Music        | Caspian                           | ASTARISBOARN                                                   | 2014-01-18 15:41:44.257067
+ gitsmsg              | TracerTea                         | lol, tagged unions for the WIN!                                | 2014-01-18 15:43:00.991957
+ DOS Attack           | MalekBoar-N                       | LOADALL                                                        | 2014-01-18 15:04:02.751062
+ Dogecrypt            | dcua                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 14:58:17.093372
+ Moon Boots           | RDotOrg                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 15:18:02.441330
+ TI-1337              | sigma                             | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 14:58:02.427028
+ DOS Attack           | nightworker                       | LOADALL                                                        | 2014-01-18 15:51:12.471333
+ Moon Boots           | Delusions of Grandeur             | Use a Tab, Space will leave you breathless                     | 2014-01-18 15:01:51.013280
+ Dogecrypt            | 9447                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 15:21:07.365952
+ Rabbit of Caerbannog | RPISEC                            | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 15:22:11.733568
+ Dogecrypt            | Shadow Cats                       | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 15:04:53.778458
+ DOS Attack           | Neg9                              | LOADALL                                                        | 2014-01-18 15:45:24.928896
+ Cave of Nope         | BatmansKitchen                    | At least it wasnt full of Creepers                             | 2014-01-18 15:03:22.879644
+ DOS Attack           | Caspian                           | LOADALL                                                        | 2014-01-18 15:38:15.886362
+ one                  | nightworker                       | SNC 52                                                         | 2014-01-18 15:57:06.231000
+ lugkist              | Eindbazen                         | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 15:24:14.463993
+ Cave of Nope         | TracerTea                         | At least it wasnt full of Creepers                             | 2014-01-18 15:26:09.676722
+ Pillowtalk           | SpamAndHex Lite                   | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 15:48:32.486667
+ one                  | FireDogSquad                      | SNC 52                                                         | 2014-01-18 15:53:02.094644
+ Boaring Music        | catbug                            | astarisboarn                                                   | 2014-01-18 15:57:05.136887
+ Dogecrypt            | pwnies                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 15:59:34.231214
+ Moon Boots           | w3stormz                          | Use a Tab, Space will leave you breathless                     | 2014-01-18 15:59:55.701721
+ one                  | girav                             | snc 52                                                         | 2014-01-18 16:00:53.948741
+ one                  | w0pr                              | SNC 52                                                         | 2014-01-18 16:02:25.551114
+ Pillowtalk           | Robot Mafia                       | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 16:03:19.402245
+ Cave of Nope         | RDotOrg                           | At least it wasnt full of Creepers                             | 2014-01-18 16:03:33.513053
+ Cave of Nope         | Kernel Sanders                    | At least it wasnt full of Creepers                             | 2014-01-18 16:03:42.439517
+ Moon Boots           | team_playerz                      | Use a Tab, Space will leave you breathless                     | 2014-01-18 16:04:06.636420
+ lugkist              | PPP                               | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 16:09:46.898962
+ DOS Attack           | Pi Backwards                      | LOADALL                                                        | 2014-01-18 16:53:45.563384
+ Cave of Nope         | SIGILL                            | At least it wasnt full of Creepers                             | 2014-01-18 16:59:53.796506
+ CTF247               | RDotOrg                           | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 17:04:48.374226
+ Pillowtalk           | Hexcellents                       | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 17:40:03.338241
+ Cave of Nope         | Shadow Cats                       | At least it wasnt full of Creepers                             | 2014-01-18 18:51:22.732104
+ Unbearable           | BatmansKitchen                    | The Drunken Master can bear any trial                          | 2014-01-18 17:50:52.532001
+ Rabbit of Caerbannog | More Smoked Leet Chicken          | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 18:32:50.598606
+ Moon Boots           | Eindbazen                         | Use a Tab, Space will leave you breathless                     | 2014-01-18 16:18:19.519168
+ Fuzzy                | PPP                               | fuzzingIsFun2                                                  | 2014-01-18 16:31:46.260459
+ TrustMeMore          | loco                              | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 17:53:50.958636
+ one                  | RITsuck                           | snc 52                                                         | 2014-01-18 18:10:46.192208
+ Cave of Nope         | Knightsec                         | At least it wasnt full of Creepers                             | 2014-01-18 18:15:20.877701
+ one                  | healwhans                         | snc 52                                                         | 2014-01-18 18:30:37.611333
+ Cave of Nope         | lesboverflow                      | At least it wasnt full of Creepers                             | 2014-01-18 18:45:01.615582
+ DOS Attack           | Strawhats                         | LOADALL                                                        | 2014-01-18 16:49:04.926189
+ Fuzzy                | 0x8F                              | fuzzingIsFun2                                                  | 2014-01-18 17:00:38.631281
+ Dogecrypt            | StratumAuhuur                     | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 16:16:04.135735
+ Cave of Nope         | team_playerz                      | At least it wasnt full of Creepers                             | 2014-01-18 16:23:55.767990
+ Rabbit of Caerbannog | fragged                           | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 16:41:36.725981
+ Dogecrypt            | gon                               | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 19:20:59.363725
+ Ad Subtract          | SUSlo.PAS                         | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 16:33:22.696891
+ Ad Subtract          | sigint                            | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 17:47:51.033683
+ lugkist              | RDotOrg                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 18:00:26.164873
+ Ad Subtract          | Knightsec                         | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 18:25:27.126903
+ lugkist              | wolfden                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 18:45:18.662241
+ Portal               | More Smoked Leet Chicken          | Cave Johnson Hates Black Mesa                                  | 2014-01-18 19:28:09.174309
+ Rabbit of Caerbannog | H4x0rPsch0rr                      | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 16:17:34.114452
+ TI-1337              | ufologists                        | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 16:17:53.959384
+ Snow Down            | Eindbazen                         | Real pirates use Z3 not a cutlass                              | 2014-01-18 16:43:07.043739
+ Dogecrypt            | Brooklynt Overflow                | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 17:05:02.048159
+ TrustMeMore          | StratumAuhuur                     | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 17:07:27.870412
+ Unbearable           | Dragon Sector                     | The Drunken Master can bear any trial                          | 2014-01-18 17:18:41.434282
+ Boaring Music        | AFTeam                            | ASTARISBOARN                                                   | 2014-01-18 17:25:58.389603
+ CTF247               | More Smoked Leet Chicken          | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 17:30:34.735515
+ Boaring Music        | Hackdumb                          | ASTARISBOARN                                                   | 2014-01-18 17:36:25.532270
+ Cave of Nope         | Neg9                              | At least it wasnt full of Creepers                             | 2014-01-18 18:32:21.084131
+ one                  | Vim Appreciation Society          | snc 52                                                         | 2014-01-18 19:22:39.673530
+ Dogecrypt            | vand                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 16:34:22.345358
+ TI-1337              | OGT                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 16:39:25.765315
+ Dogecrypt            | TracerTea                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 17:14:07.746699
+ CTF247               | SpamAndHex Lite                   | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 18:28:46.595841
+ Fuzzy                | tomcr00se                         | fuzzingIsFun2                                                  | 2014-01-18 18:30:08.973736
+ gitsmsg              | Dragon Sector                     | lol, tagged unions for the WIN!                                | 2014-01-18 19:10:18.486659
+ Boaring Music        | 0x4f                              | ASTARISBOARN                                                   | 2014-01-18 16:18:50.369746
+ Boaring Music        | Fizzy's Team                      | astarisboarn                                                   | 2014-01-18 17:53:34.469556
+ Dogecrypt            | SpamAndHex Lite                   | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 17:54:18.862527
+ Fuzzy                | Dragon Sector                     | fuzzingIsFun2                                                  | 2014-01-18 18:12:52.227308
+ Ad Subtract          | w3stormz                          | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 18:32:59.976509
+ one                  | DPS                               | SNC 52                                                         | 2014-01-18 16:18:54.733916
+ Dogecrypt            | Delusions of Grandeur             | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 16:29:50.760211
+ Moon Boots           | Shadow Cats                       | Use a Tab, Space will leave you breathless                     | 2014-01-18 17:56:28.418540
+ DOS Attack           | Hypnosec                          | LOADALL                                                        | 2014-01-18 19:02:55.412223
+ lugkist              | Brooklynt Overflow                | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 16:22:11.541894
+ TrustMeMore          | w3stormz                          | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 16:31:00.703771
+ CTF247               | penthackon                        | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 17:07:04.626427
+ Cave of Nope         | w3stormz                          | At least it wasnt full of Creepers                             | 2014-01-18 17:09:11.490961
+ Cave of Nope         | Sploitz                           | At least it wasnt full of Creepers                             | 2014-01-18 17:29:10.382061
+ Boaring Music        | WeLoveCP                          | Astarisboarn                                                   | 2014-01-18 17:53:19.105532
+ Cave of Nope         | Eindbazen                         | At least it wasnt full of Creepers                             | 2014-01-18 17:56:07.648867
+ DOS Attack           | sheepfish                         | loadall                                                        | 2014-01-18 18:51:05.981247
+ Dogecrypt            | Failafel                          | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 16:25:14.611853
+ Portal               | PPP                               | cave johnson hates black mesa                                  | 2014-01-18 16:46:37.055060
+ Moon Boots           | n2r                               | Use a Tab, Space will leave you breathless                     | 2014-01-18 17:23:05.826556
+ lugkist              | Tasteless                         | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 17:37:36.073710
+ Dogecrypt            | tomcr00se                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 16:26:28.562455
+ Rabbit of Caerbannog | 0x8F                              | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 18:47:59.612046
+ A Boaring Quest      | More Smoked Leet Chicken          | ZombieProcessesWillEatYourBrains                               | 2014-01-18 16:30:24.967741
+ A Boaring Quest      | fragged                           | ZombieProcessesWillEatYourBrains                               | 2014-01-18 16:52:45.377161
+ Dogecrypt            | BatmansKitchen                    | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 17:02:52.628413
+ Portal               | pwnies                            | Cave Johnson hates Black Mesa                                  | 2014-01-18 17:06:35.512696
+ CTF247               | Tasteless                         | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 17:11:35.545921
+ TrustMeMore          | Big-Daddy                         | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 17:25:51.711394
+ Moon Boots           | Brooklynt Overflow                | Use a Tab, Space will leave you breathless                     | 2014-01-18 17:27:15.568043
+ TI-1337              | fuffateam                         | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 17:47:27.112193
+ TrustMeMore          | 0x8F                              | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 17:48:59.266340
+ TrustMeMore          | captchaflag                       | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 18:39:42.125218
+ Long live the Queen  | samurai                           | theycallmethephasebeast                                        | 2014-01-18 16:40:24.362681
+ lugkist              | tomcr00se                         | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 16:49:59.514328
+ Pillowtalk           | captchaflag                       | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 16:54:40.571836
+ Unbearable           | fragged                           | The Drunken Master can bear any trial                          | 2014-01-18 17:10:14.929504
+ Boaring Music        | Muahaha                           | ASTARISBOARN                                                   | 2014-01-18 17:52:20.669223
+ Unbearable           | Neg9                              | The Drunken Master can bear any trial                          | 2014-01-18 19:14:43.213160
+ lugkist              | Strawhats                         | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 19:16:00.781215
+ A Boaring Quest      | schmoos                           | ZombieProcessesWillEatYourBrains                               | 2014-01-18 16:40:27.215910
+ A Boaring Quest      | Team Nullspace                    | ZombieProcessesWillEatYourBrains                               | 2014-01-18 16:42:44.161060
+ A Boaring Quest      | catbug                            | ZombieProcessesWillEatYourBrains                               | 2014-01-18 17:03:02.228639
+ Boaring Music        | Pi Backwards                      | astarisboarn                                                   | 2014-01-18 17:33:35.620731
+ CTF247               | hazard                            | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 17:37:16.956518
+ CTF247               | 0x8F                              | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 19:13:56.764127
+ TrustMeMore          | Delusions of Grandeur             | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 16:49:59.174506
+ Fuzzy                | pwnies                            | fuzzingIsFun2                                                  | 2014-01-18 17:34:05.377914
+ Moon Boots           | fragged                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 17:38:55.325152
+ Moon Boots           | Sploitz                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 16:58:03.705532
+ Moon Boots           | Big-Daddy                         | Use a Tab, Space will leave you breathless                     | 2014-01-18 17:06:49.973973
+ Rabbit of Caerbannog | TRex                              | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 18:30:26.322376
+ A Boaring Quest      | BatmansKitchen                    | ZombieProcessesWillEatYourBrains                               | 2014-01-18 19:15:38.910266
+ A Boaring Quest      | Neg9                              | ZombieProcessesWillEatYourBrains                               | 2014-01-18 19:21:53.532579
+ Ad Subtract          | Dragon Sector                     | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 19:39:09.445262
+ Dogecrypt            | yunoluvme                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 19:42:19.107827
+ Dogecrypt            | sigint                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 19:52:21.503021
+ Moon Boots           | hazard                            | Use a Tab, Space will leave you breathless                     | 2014-01-18 19:54:22.733485
+ A Boaring Quest      | sigint                            | ZombieProcessesWillEatYourBrains                               | 2014-01-18 19:56:43.534982
+ Dogecrypt            | Hexcellents                       | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 19:57:36.019292
+ Pillowtalk           | TRex                              | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 20:01:12.410075
+ lugkist              | H4x0rPsch0rr                      | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 20:05:30.564224
+ TI-1337              | ChrisChristieBridgeCrew           | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 20:07:37.602745
+ Pillowtalk           | SomeRandomName                    | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-18 20:09:06.303123
+ A Boaring Quest      | Dragon Sector                     | ZombieProcessesWillEatYourBrains                               | 2014-01-18 20:15:27.739123
+ DOS Attack           | Failafel                          | LOADALL                                                        | 2014-01-18 20:17:58.907172
+ one                  | MMA                               | SNC 52                                                         | 2014-01-18 20:20:56.738086
+ Dogecrypt            | Pi Backwards                      | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 20:44:46.505437
+ TrustMeMore          | TracerTea                         | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 22:01:43.803423
+ Unbearable           | samurai                           | The Drunken Master can bear any trial                          | 2014-01-18 22:19:38.219442
+ lugkist              | n2r                               | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 22:34:07.144167
+ A Boaring Quest      | HappyBacking                      | ZombieProcessesWillEatYourBrains                               | 2014-01-19 01:11:39.974509
+ Cave of Nope         | Guardian                          | At least it wasnt full of Creepers                             | 2014-01-19 01:13:16.437495
+ phpcrypto            | PPP                               | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 01:30:24.575025
+ PapSmear             | int3pids                          | ThesePrimesAreNotIllegal                                       | 2014-01-19 03:18:57.503534
+ one                  | a3d                               | snc 52                                                         | 2014-01-18 20:37:44.461272
+ Unbearable           | Tasteless                         | The Drunken Master can bear any trial                          | 2014-01-18 21:02:54.217051
+ lugkist              | Snatch The Root                   | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 21:13:29.135975
+ CTF247               | Dragon Sector                     | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-18 21:21:39.753293
+ Gitzino              | PPP                               | The key is: Twister? I hardly knew her                         | 2014-01-18 21:33:58.570502
+ inview               | ECX Inc                           | WhitespaceProgrammingIsHard                                    | 2014-01-19 00:55:41.942990
+ one                  | zoey1                             | snc 52                                                         | 2014-01-19 00:56:05.631692
+ Moon Boots           | Team Nullspace                    | Use a Tab, Space will leave you breathless                     | 2014-01-19 01:13:50.088870
+ lugkist              | dcua                              | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 20:23:35.620046
+ Cave of Nope         | hazard                            | At least it wasnt full of Creepers                             | 2014-01-18 20:51:49.174185
+ one                  | jiffies                           | SNC 52                                                         | 2014-01-18 23:58:42.815983
+ one                  | 0x5641                            | snc 52                                                         | 2014-01-19 00:22:06.788839
+ DOS Attack           | jiffies                           | LOADALL                                                        | 2014-01-19 00:26:35.644360
+ inview               | Brooklynt Overflow                | WhitespaceProgrammingIsHard                                    | 2014-01-19 00:49:35.462552
+ Cave of Nope         | Pi Backwards                      | At least it wasnt full of Creepers                             | 2014-01-19 01:29:19.678498
+ lugkist              | Ryan                              | QUALITYNOTQUANTITY                                             | 2014-01-19 00:12:23.462102
+ Dogecrypt            | ECX Inc                           | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 00:32:00.053753
+ Radioactive          | SegFault                          | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 02:13:03.666939
+ one                  | No Idea What We're Doing          | SNC 52                                                         | 2014-01-18 20:23:38.520039
+ TrustMeMore          | penthackon                        | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 21:26:24.046169
+ inview               | 0x4f                              | Whitespaceprogrammingishard                                    | 2014-01-19 01:11:25.160375
+ phpcrypto            | Eindbazen                         | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 03:43:57.426573
+ TI-1337              | BatmansKitchen                    | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 21:42:26.462175
+ TrustMeMore          | ECX Inc                           | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 22:08:23.193541
+ Unbearable           | penthackon                        | The Drunken Master can bear any trial                          | 2014-01-18 22:48:55.861889
+ phpcrypto            | _TMIH_                            | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 01:47:14.524101
+ inview               | captchaflag                       | WhitespaceProgrammingIsHard                                    | 2014-01-19 02:49:27.985992
+ inview               | gon                               | WhitespaceProgrammingIsHard                                    | 2014-01-19 03:14:15.126497
+ gitsmsg              | Robot Mafia                       | lol, tagged unions for the WIN!                                | 2014-01-19 00:21:34.547974
+ inview               | PPP                               | WhitespaceProgrammingIsHard                                    | 2014-01-19 01:02:14.132514
+ Moon Boots           | Pi Backwards                      | Use a Tab, Space will leave you breathless                     | 2014-01-19 01:07:39.559497
+ inview               | SpamAndHex Lite                   | WhitespaceProgrammingIsHard                                    | 2014-01-19 01:57:20.805132
+ one                  | ViAr                              | SNC 52                                                         | 2014-01-18 20:26:44.702454
+ A Boaring Quest      | Sploitz                           | ZombieProcessesWillEatYourBrains                               | 2014-01-18 23:17:34.268395
+ Boaring Music        | CodeRed                           | ASTARISBOARN                                                   | 2014-01-19 00:10:00.868011
+ inview               | 9447                              | WhitespaceProgrammingIsHard                                    | 2014-01-19 03:06:21.150762
+ TrustMeMore          | Hexcellents                       | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-19 03:23:29.253321
+ Ad Subtract          | n2r                               | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 21:12:07.663260
+ lugkist              | Pi Backwards                      | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 21:26:19.363597
+ A Boaring Quest      | Tasteless                         | ZombieProcessesWillEatYourBrains                               | 2014-01-18 22:12:50.680552
+ Unbearable           | Eindbazen                         | The Drunken Master can bear any trial                          | 2014-01-19 00:05:18.325315
+ PapSmear             | PPP                               | ThesePrimesAreNotIllegal                                       | 2014-01-19 02:18:06.648935
+ inview               | Robot Mafia                       | WhitespaceProgrammingIsHard                                    | 2014-01-19 03:02:26.855564
+ DOS Attack           | a3d                               | loadall                                                        | 2014-01-18 22:03:43.131271
+ inview               | EpsilonDelta                      | WhitespaceProgrammingIsHard                                    | 2014-01-19 01:23:58.028063
+ TI-1337              | Neg9                              | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 20:39:18.439056
+ gitsmsg              | Memory Fist                       | lol, tagged unions for the WIN!                                | 2014-01-18 23:52:17.340262
+ Boaring Music        | ArrBas                            | ASTARISBOARN                                                   | 2014-01-19 00:58:07.723226
+ Moon Boots           | Hypnosec                          | Use a Tab, Space will leave you breathless                     | 2014-01-19 01:23:08.744927
+ Unbearable           | Shadow Cats                       | The Drunken Master can bear any trial                          | 2014-01-19 03:17:06.857328
+ Radioactive          | RDotOrg                           | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 03:47:47.306923
+ Boaring Music        | 0x5641                            | ASTARISBOARN                                                   | 2014-01-19 01:14:43.099039
+ Radioactive          | vand                              | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 01:52:14.462142
+ DOS Attack           | HZBL                              | loadall                                                        | 2014-01-19 02:34:05.752207
+ Radioactive          | More Smoked Leet Chicken          | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 03:14:26.001478
+ Fuzzy                | TracerTea                         | fuzzingIsFun2                                                  | 2014-01-18 20:38:58.993668
+ Boaring Music        | a3d                               | astarisboarn                                                   | 2014-01-18 21:27:11.769081
+ Cave of Nope         | Brooklynt Overflow                | At least it wasnt full of Creepers                             | 2014-01-18 22:02:51.702688
+ Unbearable           | HappyBacking                      | The Drunken Master can bear any trial                          | 2014-01-18 23:29:07.022024
+ Ad Subtract          | 1064CBread                        | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-18 23:47:55.649186
+ Rabbit of Caerbannog | Eindbazen                         | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-19 00:16:52.303052
+ CTF247               | PPP                               | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 00:24:39.458767
+ inview               | Delusions of Grandeur             | WhitespaceProgrammingIsHard                                    | 2014-01-19 00:51:14.593311
+ phpcrypto            | SomeRandomName                    | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 00:54:42.780151
+ TI-1337              | 0wl                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 01:47:34.172646
+ inview               | CTF-infinit                       | WhitespaceProgrammingIsHard                                    | 2014-01-19 02:29:11.626820
+ phpcrypto            | blue-lotus                        | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 03:28:14.142821
+ Byte Sexual          | PPP                               | You really should not mix execution modes                      | 2014-01-18 21:03:57.243184
+ A Boaring Quest      | Koibasta                          | ZombieProcessesWillEatYourBrains                               | 2014-01-18 21:08:32.253744
+ lugkist              | Failafel                          | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 22:20:10.417409
+ TI-1337              | poc                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 00:18:18.964427
+ one                  | brailletoadsolo                   | SNC 52                                                         | 2014-01-19 00:18:36.024246
+ A Boaring Quest      | samurai                           | ZombieProcessesWillEatYourBrains                               | 2014-01-19 02:16:32.452275
+ phpcrypto            | WeLoveCP                          | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 02:55:33.233593
+ inview               | BatmansKitchen                    | WhitespaceProgrammingIsHard                                    | 2014-01-19 03:14:04.712648
+ Gitzino              | More Smoked Leet Chicken          | Twister? I hardly knew her                                     | 2014-01-19 03:38:44.201367
+ one                  | MrMegane                          | SNC 52                                                         | 2014-01-18 21:05:35.825452
+ Moon Boots           | n0l3ptr                           | Use a Tab, Space will leave you breathless                     | 2014-01-18 21:24:38.348911
+ TrustMeMore          | gon                               | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-18 23:57:08.810359
+ phpcrypto            | tomcr00se                         | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 01:20:51.155701
+ phpcrypto            | Delusions of Grandeur             | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 02:58:43.580055
+ phpcrypto            | RDotOrg                           | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 03:43:28.005664
+ Cave of Nope         | n2r                               | At least it wasnt full of Creepers                             | 2014-01-18 20:47:37.566919
+ DOS Attack           | healwhans                         | LOADALL                                                        | 2014-01-18 21:44:39.304021
+ Gitzino              | TracerTea                         | Twister? I hardly knew her                                     | 2014-01-18 22:24:17.700086
+ lugkist              | ECX Inc                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-18 22:42:46.703318
+ one                  | Strawhats                         | SNC 52                                                         | 2014-01-18 23:42:48.403347
+ Portal               | ECX Inc                           | Cave Johnson hates Black Mesa                                  | 2014-01-19 01:37:36.929615
+ Radioactive          | tomcr00se                         | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 01:43:25.008447
+ Moon Boots           | Guardian                          | Use a Tab, Space will leave you breathless                     | 2014-01-19 01:51:32.687601
+ phpcrypto            | Pi Backwards                      | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 02:03:10.204888
+ phpcrypto            | ECX Inc                           | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 02:41:17.720274
+ Ad Subtract          | Neg9                              | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-19 02:51:19.340201
+ PapSmear             | 1064CBread                        | ThesePrimesAreNotIllegal                                       | 2014-01-19 02:52:32.078443
+ inview               | sigint                            | WhitespaceProgrammingIsHard                                    | 2014-01-19 03:48:09.358318
+ one                  | The Lorentz Vectors               | SNC 52                                                         | 2014-01-19 03:48:29.106621
+ Fuzzy                | Eindbazen                         | fuzzingIsFun2                                                  | 2014-01-18 22:33:38.403133
+ Snow Down            | sheepfish                         | Real pirates use Z3 not a cutlass                              | 2014-01-18 23:49:23.718479
+ TI-1337              | fragged                           | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 00:04:36.394239
+ Unbearable           | sheepfish                         | The Drunken Master can bear any trial                          | 2014-01-19 02:56:30.331783
+ Long live the Queen  | PPP                               | theycallmethephasebeast                                        | 2014-01-19 03:19:22.432600
+ PapSmear             | SegFault                          | ThesePrimesAreNotIllegal                                       | 2014-01-19 03:48:41.363044
+ Rabbit of Caerbannog | Tasteless                         | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-18 21:25:08.927271
+ gitsmsg              | StratumAuhuur                     | lol, tagged unions for the WIN!                                | 2014-01-18 21:25:51.430472
+ TI-1337              | dcua                              | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-18 22:44:58.977522
+ lugkist              | NULLify                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-19 00:58:20.225450
+ A Boaring Quest      | Eindbazen                         | ZombieProcessesWillEatYourBrains                               | 2014-01-19 01:15:39.362073
+ PapSmear             | Robot Mafia                       | ThesePrimesAreNotIllegal                                       | 2014-01-19 02:26:20.892738
+ phpcrypto            | 9447                              | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 02:48:33.980915
+ Boaring Music        | Neg9                              | ASTARISBOARN                                                   | 2014-01-18 21:44:24.179973
+ gitsmsg              | Eindbazen                         | lol, tagged unions for the WIN!                                | 2014-01-18 22:22:42.215159
+ Dogecrypt            | int3pids                          | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 00:13:45.896554
+ Radioactive          | PPP                               | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 01:01:57.642400
+ inview               | Guardian                          | WhitespaceProgrammingIsHard                                    | 2014-01-19 01:26:52.444079
+ inview               | 1064CBread                        | WhitespaceProgrammingIsHard                                    | 2014-01-19 01:39:12.813177
+ Snow Down            | 0x8F                              | Real pirates use Z3 not a cutlass                              | 2014-01-18 21:30:33.590803
+ Dogecrypt            | tweek_                            | ShibeSuchDictionaryAttacksWow                                  | 2014-01-18 22:51:29.257369
+ Boaring Music        | Brooklynt Overflow                | ASTARISBOARN                                                   | 2014-01-19 00:31:10.287029
+ A Boaring Quest      | ReallyBalalaikaFoRDot             | ZombieProcessesWillEatYourBrains                               | 2014-01-19 03:19:39.854504
+ inview               | Dragon Sector                     | whitespaceProgrammingIsHard                                    | 2014-01-19 03:45:07.910205
+ CTF247               | ReallyBalalaikaFoRDot             | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 03:52:54.212979
+ Radioactive          | int3pids                          | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 03:53:09.434403
+ phpcrypto            | More Smoked Leet Chicken          | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 03:55:39.476485
+ Boaring Music        | gn00bz                            | ASTARISBOARN                                                   | 2014-01-19 03:57:28.816040
+ Radioactive          | Eindbazen                         | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 03:58:33.306220
+ Ad Subtract          | 4321                              | AdBlockedHaveASillyMooseAnyway                                 | 2014-01-19 04:11:39.605344
+ phpcrypto            | int3pids                          | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 04:27:29.675227
+ PapSmear             | gon                               | ThesePrimesAreNotIllegal                                       | 2014-01-19 06:03:28.740552
+ PapSmear             | penthackon                        | ThesePrimesAreNotIllegal                                       | 2014-01-19 08:27:25.770369
+ one                  | p0g0                              | snc 52                                                         | 2014-01-19 08:31:12.766549
+ Dogecrypt            | gebl                              | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 10:29:52.603717
+ Unbearable           | RDotOrg                           | The Drunken Master can bear any trial                          | 2014-01-19 11:38:04.110225
+ A Boaring Quest      | Entr0pia                          | ZombieProcessesWillEatYourBrains                               | 2014-01-19 11:44:53.152755
+ gitsmsg              | 0x8F                              | lol, tagged unions for the WIN!                                | 2014-01-19 11:59:31.827646
+ inview               | Shadow Cats                       | WhitespaceProgrammingIsHard                                    | 2014-01-19 04:04:34.921311
+ Fuzzy                | samurai                           | fuzzingIsFun2                                                  | 2014-01-19 04:25:21.506883
+ one                  | troublemakers                     | snc 52                                                         | 2014-01-19 04:39:02.619060
+ phpcrypto            | NULLify                           | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 04:48:53.831300
+ PapSmear             | sheepfish                         | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:01:50.957773
+ Pillowtalk           | w0pr                              | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-19 05:30:54.728039
+ PapSmear             | Hexcellents                       | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:31:35.564833
+ Radioactive          | sigint                            | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 06:20:35.058787
+ phpcrypto            | pwnies                            | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 06:25:53.859065
+ PapSmear             | blue-lotus                        | ThesePrimesAreNotIllegal                                       | 2014-01-19 06:44:35.226557
+ Cave of Nope         | 9447                              | At least it wasnt full of Creepers                             | 2014-01-19 06:58:17.013516
+ Gitzino              | Dragon Sector                     | Twister? I hardly knew her                                     | 2014-01-19 08:30:49.782848
+ PapSmear             | sigint                            | ThesePrimesAreNotIllegal                                       | 2014-01-19 08:41:28.895652
+ phpcrypto            | TracerTea                         | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 09:24:38.229069
+ lugkist              | jiffies                           | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-19 09:25:04.232870
+ Cave of Nope         | Entr0pia                          | At least it wasnt full of Creepers                             | 2014-01-19 09:39:51.513044
+ phpcrypto            | team_playerz                      | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 09:45:46.359769
+ Gitzino              | penthackon                        | Twister? I hardly knew her                                     | 2014-01-19 10:49:29.688439
+ PapSmear             | Kernel Sanders                    | ThesePrimesAreNotIllegal                                       | 2014-01-19 04:27:15.682192
+ phpcrypto            | Dragon Sector                     | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 05:41:25.360667
+ Moon Boots           | 9447                              | Use a Tab, Space will leave you breathless                     | 2014-01-19 05:50:14.177788
+ phpcrypto            | StratumAuhuur                     | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 07:09:46.340765
+ PapSmear             | ReallyBalalaikaFoRDot             | ThesePrimesAreNotIllegal                                       | 2014-01-19 07:23:09.200698
+ PapSmear             | pwnies                            | ThesePrimesAreNotIllegal                                       | 2014-01-19 07:48:42.995693
+ inview               | Honeypot                          | WhitespaceProgrammingIsHard                                    | 2014-01-19 08:00:34.207373
+ phpcrypto            | p03p0wn                           | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 08:05:58.967390
+ inview               | 0x8F                              | whitespaceProgrammingIsHard                                    | 2014-01-19 08:06:07.773338
+ inview               | Memory Fist                       | WhitespaceProgrammingIsHard                                    | 2014-01-19 12:03:09.079557
+ Byte Sexual          | FluxFingers                       | You really should not mix execution modes                      | 2014-01-19 12:05:49.270839
+ Dogecrypt            | Caspian                           | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 12:07:13.489355
+ PapSmear             | Eindbazen                         | ThesePrimesAreNotIllegal                                       | 2014-01-19 04:18:33.428823
+ Moon Boots           | Memory Fist                       | Use a Tab, Space will leave you breathless                     | 2014-01-19 04:54:51.944761
+ DOS Attack           | PeakChaos                         | LOADALL                                                        | 2014-01-19 09:05:44.615835
+ CTF247               | StratumAuhuur                     | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 09:15:23.280353
+ DOS Attack           | r3b00+                            | loadall                                                        | 2014-01-19 10:38:35.431277
+ inview               | RDotOrg                           | WhitespaceProgrammingIsHard                                    | 2014-01-19 10:48:14.062747
+ PapSmear             | Team Action Kaktus                | ThesePrimesAreNotIllegal                                       | 2014-01-19 11:03:02.901203
+ lugkist              | HZBL                              | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-19 12:22:16.575042
+ phpcrypto            | gon                               | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 04:48:15.577434
+ CTF247               | Robot Mafia                       | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 06:16:16.674250
+ Pillowtalk           | bamboo                            | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-19 07:21:52.765145
+ inview               | ufologists                        | WhitespaceProgrammingIsHard                                    | 2014-01-19 09:04:55.681757
+ PapSmear             | w0pr                              | ThesePrimesAreNotIllegal                                       | 2014-01-19 11:10:29.453818
+ Boaring Music        | EpsilonDelta                      | ASTARISBOARN                                                   | 2014-01-19 11:40:10.098504
+ CTF247               | H4x0rPsch0rr                      | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:36:52.136683
+ Dogecrypt            | jiffies                           | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 04:12:15.085452
+ TI-1337              | 9447                              | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 05:21:54.707433
+ PapSmear             | p03p0wn                           | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:29:27.506528
+ Radioactive          | pwnies                            | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 06:09:06.807194
+ Radioactive          | w3stormz                          | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 08:10:20.027935
+ inview               | 0xbadf00d                         | WhitespaceProgrammingIsHard                                    | 2014-01-19 08:14:22.410431
+ Fuzzy                | Memory Fist                       | fuzzingIsFun2                                                  | 2014-01-19 09:42:14.412892
+ phpcrypto            | H4x0rPsch0rr                      | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 10:01:56.360006
+ PapSmear             | w3stormz                          | ThesePrimesAreNotIllegal                                       | 2014-01-19 10:23:18.034941
+ Portal               | penthackon                        | Cave Johnson hates Black Mesa                                  | 2014-01-19 10:55:00.004517
+ inview               | Tasteless                         | WhitespaceProgrammingIsHard                                    | 2014-01-19 11:30:46.724904
+ Dogecrypt            | EpsilonDelta                      | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 11:45:33.270020
+ Byte Sexual          | tomcr00se                         | You really should not mix execution modes                      | 2014-01-19 11:51:29.013052
+ Snow Down            | More Smoked Leet Chicken          | Real pirates use Z3 not a cutlass                              | 2014-01-19 04:22:20.939999
+ PapSmear             | More Smoked Leet Chicken          | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:07:54.113767
+ phpcrypto            | samurai                           | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 05:56:34.764182
+ phpcrypto            | SegFault                          | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 06:29:55.210779
+ PapSmear             | alcapwn                           | ThesePrimesAreNotIllegal                                       | 2014-01-19 06:31:02.365191
+ TI-1337              | Honeypot                          | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 07:47:39.963045
+ gitsmsg              | sigint                            | lol, tagged unions for the WIN!                                | 2014-01-19 10:06:33.138883
+ Portal               | Tasteless                         | Cave Johnson hates Black Mesa                                  | 2014-01-19 10:37:38.389648
+ Unbearable           | SUSlo.PAS                         | The Drunken Master can bear any trial                          | 2014-01-19 12:36:38.884405
+ inview               | int3pids                          | WhitespaceProgrammingIsHard                                    | 2014-01-19 04:40:30.189531
+ PapSmear             | CTF-infinit                       | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:02:58.078450
+ Radioactive          | sutegoma2                         | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:55:49.877977
+ phpcrypto            | Snatch The Root                   | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 09:03:52.686664
+ inview               | H4x0rPsch0rr                      | WhitespaceProgrammingIsHard                                    | 2014-01-19 09:38:51.200727
+ PapSmear             | sutegoma2                         | ThesePrimesAreNotIllegal                                       | 2014-01-19 10:20:55.349610
+ DOS Attack           | SegFault                          | LOADALL                                                        | 2014-01-19 11:25:11.565035
+ Radioactive          | Big-Daddy                         | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 11:37:52.925433
+ PapSmear             | Snatch The Root                   | ThesePrimesAreNotIllegal                                       | 2014-01-19 12:18:32.428516
+ Radioactive          | 0x8F                              | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 05:06:32.335526
+ Dogecrypt            | Big-Daddy                         | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 06:39:59.375755
+ phpcrypto            | dcua                              | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 07:13:57.820265
+ Dogecrypt            | 10111                             | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 08:03:05.162427
+ PapSmear             | 0x8F                              | ThesePrimesAreNotIllegal                                       | 2014-01-19 10:23:30.093445
+ A Boaring Quest      | MMA                               | ZombieProcessesWillEatYourBrains                               | 2014-01-19 11:23:31.499829
+ inview               | More Smoked Leet Chicken          | WhitespaceProgrammingIsHard                                    | 2014-01-19 04:16:08.407199
+ phpcrypto            | Robot Mafia                       | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 05:14:50.370945
+ Radioactive          | SpamAndHex Lite                   | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 08:01:36.026428
+ phpcrypto            | ufologists                        | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 08:11:20.973922
+ Gitzino              | pwnies                            | Twister? I hardly knew her                                     | 2014-01-19 10:19:22.186941
+ DOS Attack           | 0xbadf00d                         | loadall                                                        | 2014-01-19 10:23:40.334221
+ PapSmear             | H4x0rPsch0rr                      | ThesePrimesAreNotIllegal                                       | 2014-01-19 11:11:48.258964
+ Rabbit of Caerbannog | RDotOrg                           | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-19 11:37:35.467048
+ CTF247               | OGT                               | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 04:17:29.162173
+ PapSmear             | QBiT                              | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:50:00.807479
+ TI-1337              | 1064CBread                        | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 06:57:52.385603
+ inview               | StratumAuhuur                     | WhitespaceProgrammingIsHard                                    | 2014-01-19 07:53:19.030837
+ Moon Boots           | SpamAndHex Lite                   | Use a Tab, Space will leave you breathless                     | 2014-01-19 08:39:20.052449
+ one                  | Squareroots                       | SNC 52                                                         | 2014-01-19 09:29:12.338875
+ phpcrypto            | hazard                            | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 09:34:26.401745
+ phpcrypto            | captchaflag                       | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 11:26:30.970400
+ one                  | HZBL                              | SNC 52                                                         | 2014-01-19 11:55:22.438143
+ Fuzzy                | w3stormz                          | fuzzingIsFun2                                                  | 2014-01-19 11:56:49.666067
+ CTF247               | Eindbazen                         | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:20:59.142773
+ Dogecrypt            | Snatch The Root                   | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 12:22:02.025599
+ Radioactive          | ufologists                        | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 04:11:29.692131
+ PapSmear             | tomcr00se                         | ThesePrimesAreNotIllegal                                       | 2014-01-19 04:37:34.064972
+ inview               | alcapwn                           | WhitespaceProgrammingIsHard                                    | 2014-01-19 04:53:29.832177
+ Radioactive          | Delusions of Grandeur             | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 05:13:09.316017
+ Radioactive          | Robot Mafia                       | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 05:27:42.058324
+ Gitzino              | Eindbazen                         | Twister? I hardly knew her                                     | 2014-01-19 06:55:56.037295
+ Radioactive          | StratumAuhuur                     | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:37:24.087407
+ DOS Attack           | EpsilonDelta                      | LOADALL                                                        | 2014-01-19 11:27:16.045548
+ inview               | dcua                              | whitespaceProgrammingIsHard                                    | 2014-01-19 11:35:48.818684
+ CTF247               | tomcr00se                         | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:31:46.825298
+ PapSmear             | Dragon Sector                     | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:29:20.388590
+ inview               | penthackon                        | WhitespaceProgrammingIsHard                                    | 2014-01-19 05:50:45.847413
+ DOS Attack           | lesboverflow                      | LOADALL                                                        | 2014-01-19 06:13:03.268906
+ lugkist              | Kernel Sanders                    | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-19 06:16:37.081443
+ Radioactive          | 9447                              | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:22:45.598319
+ PapSmear             | Delusions of Grandeur             | ThesePrimesAreNotIllegal                                       | 2014-01-19 08:19:41.539135
+ Long live the Queen  | Eindbazen                         | TheyCallMeThePhaseBeast                                        | 2014-01-19 09:19:55.112742
+ phpcrypto            | w0pr                              | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 09:36:43.227457
+ A Boaring Quest      | Guardian                          | ZombieProcessesWillEatYourBrains                               | 2014-01-19 10:54:41.146030
+ Radioactive          | Shadow Cats                       | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 11:06:07.985963
+ phpcrypto            | Tasteless                         | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 06:35:39.433051
+ Dogecrypt            | Team Action Kaktus                | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 06:50:05.592298
+ Radioactive          | w0pr                              | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:25:15.021835
+ PapSmear             | The one team                      | ThesePrimesAreNotIllegal                                       | 2014-01-19 08:32:27.556167
+ Unbearable           | ReallyBalalaikaFoRDot             | The Drunken Master can bear any trial                          | 2014-01-19 09:39:15.222891
+ PapSmear             | 9447                              | ThesePrimesAreNotIllegal                                       | 2014-01-19 09:54:13.727107
+ inview               | ztlts                             | WhitespaceProgrammingIsHard                                    | 2014-01-19 10:01:10.933298
+ inview               | w0pr                              | WhitespaceProgrammingIsHard                                    | 2014-01-19 10:12:26.550332
+ PapSmear             | SpamAndHex Lite                   | ThesePrimesAreNotIllegal                                       | 2014-01-19 10:16:31.709287
+ CTF247               | Snatch The Root                   | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 10:37:58.960090
+ inview               | MMA                               | WhitespaceProgrammingIsHard                                    | 2014-01-19 11:09:12.111289
+ phpcrypto            | w3stormz                          | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 11:25:31.718786
+ inview               | Eindbazen                         | WhitespaceProgrammingIsHard                                    | 2014-01-19 04:57:36.789815
+ phpcrypto            | ReallyBalalaikaFoRDot             | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 05:39:49.918000
+ phpcrypto            | SpamAndHex Lite                   | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 06:06:53.611166
+ phpcrypto            | 0x8F                              | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 06:22:33.243196
+ PapSmear             | girav                             | ThesePrimesAreNotIllegal                                       | 2014-01-19 06:47:43.771123
+ Gitzino              | sutegoma2                         | Twister? I hardly knew her                                     | 2014-01-19 07:25:47.527509
+ Radioactive          | girav                             | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:57:31.974179
+ Radioactive          | penthackon                        | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 09:26:25.908592
+ inview               | w3stormz                          | WhitespaceProgrammingIsHard                                    | 2014-01-19 09:52:33.910657
+ phpcrypto            | RooterX                           | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 09:54:29.984322
+ inview               | Snatch The Root                   | WhitespaceProgrammingIsHard                                    | 2014-01-19 10:20:13.862115
+ CTF247               | Ryan                              | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:12:57.259803
+ inview               | pwnstars                          | WhitespaceProgrammingIsHard                                    | 2014-01-19 05:09:33.220307
+ Gitzino              | RDotOrg                           | Twister? I hardly knew her                                     | 2014-01-19 05:33:22.514803
+ PapSmear             | StratumAuhuur                     | ThesePrimesAreNotIllegal                                       | 2014-01-19 06:33:56.443148
+ one                  | Inadimastatonc                    | snc 52                                                         | 2014-01-19 08:09:00.688373
+ inview               | team_playerz                      | WhitespaceProgrammingIsHard                                    | 2014-01-19 10:06:27.430227
+ Radioactive          | TracerTea                         | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 10:38:54.767184
+ Moon Boots           | TracerTea                         | Use a Tab, Space will leave you breathless                     | 2014-01-19 12:12:16.389002
+ DOS Attack           | Hexcellents                       | loadall                                                        | 2014-01-19 12:26:39.209640
+ PapSmear             | Guardian                          | ThesePrimesAreNotIllegal                                       | 2014-01-19 06:01:03.582131
+ inview               | pwnies                            | WhitespaceProgrammingIsHard                                    | 2014-01-19 06:08:36.136019
+ Radioactive          | dcua                              | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:11:29.669915
+ phpcrypto            | penthackon                        | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 07:58:14.429786
+ Radioactive          | Dragon Sector                     | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 07:59:37.619487
+ Moon Boots           | Entr0pia                          | Use a Tab, Space will leave you breathless                     | 2014-01-19 09:36:31.970828
+ TI-1337              | gon                               | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 09:57:58.083065
+ Rabbit of Caerbannog | Delusions of Grandeur             | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-19 10:25:17.316655
+ Pillowtalk           | Neg9                              | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-19 05:25:23.606314
+ TI-1337              | The Cat is #1!!                   | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 05:25:29.442021
+ PapSmear             | sigma                             | ThesePrimesAreNotIllegal                                       | 2014-01-19 05:37:06.821990
+ Dogecrypt            | AutoBits                          | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 05:54:18.234194
+ PapSmear             | TRex                              | ThesePrimesAreNotIllegal                                       | 2014-01-19 08:09:53.662692
+ Radioactive          | H4x0rPsch0rr                      | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 08:41:28.114051
+ PapSmear             | captchaflag                       | ThesePrimesAreNotIllegal                                       | 2014-01-19 09:08:20.461521
+ TI-1337              | ECX Inc                           | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 09:39:25.737249
+ Rabbit of Caerbannog | ReallyBalalaikaFoRDot             | Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it               | 2014-01-19 10:32:04.757126
+ PapSmear             | EpsilonDelta                      | ThesePrimesAreNotIllegal                                       | 2014-01-19 11:11:01.837293
+ Pillowtalk           | HackingForSoju                    | WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso                      | 2014-01-19 11:19:09.694634
+ A Boaring Quest      | RDotOrg                           | ZombieProcessesWillEatYourBrains                               | 2014-01-19 11:35:41.512710
+ Gitzino              | ReallyBalalaikaFoRDot             | Twister? I hardly knew her                                     | 2014-01-19 11:35:53.152148
+ Dogecrypt            | netcats                           | ShibeSuchDictionaryAttacksWow                                  | 2014-01-19 11:46:11.896187
+ one                  | brd                               | SNC 52                                                         | 2014-01-19 12:29:14.046070
+ TI-1337              | Brooklynt Overflow                | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 12:33:51.350127
+ TrustMeMore          | 0xbadf00d                         | OnlyDDTEKWouldDoSomethingThisEvil                              | 2014-01-19 12:11:08.440886
+ Long live the Queen  | More Smoked Leet Chicken          | theycallmethephasebeast                                        | 2014-01-19 12:07:11.380732
+ A Boaring Quest      | Hexcellents                       | ZombieProcessesWillEatYourBrains                               | 2014-01-19 12:10:08.582252
+ Byte Sexual          | Dragon Sector                     | You really should not mix execution modes                      | 2014-01-19 12:21:56.077750
+ CTF247               | dcua                              | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:33:59.716299
+ inview               | ShellShocked                      | WhitespaceProgrammingIsHard                                    | 2014-01-19 12:39:57.672149
+ phpcrypto            | Big-Daddy                         | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 12:41:56.675836
+ TI-1337              | RDotOrg                           | WhyDidTheChickenCrossTheMobiusStrip                            | 2014-01-19 12:42:45.531584
+ Moon Boots           | SUSlo.PAS                         | Use a Tab, Space will leave you breathless                     | 2014-01-19 12:43:14.379782
+ Unbearable           | Guardian                          | The Drunken Master can bear any trial                          | 2014-01-19 12:44:36.803497
+ Cave of Nope         | Snatch The Root                   | At least it wasnt full of Creepers                             | 2014-01-19 12:46:38.533176
+ CTF247               | SegFault                          | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:47:16.794455
+ CTF247               | pwnies                            | 0aea26e968895efa40b563e3e8fe8f19                               | 2014-01-19 12:49:50.565412
+ lugkist              | ufologists                        | Power overwhelming? Back in my day cheats did not have spaces. | 2014-01-19 12:50:24.409494
+ Radioactive          | The one team                      | Welcom3ToTheNewAgeItsARevolutionISuppose                       | 2014-01-19 12:57:05.545161
+ phpcrypto            | HappyBacking                      | ThisWasAStupidTestKeyThatBecameARealBoy                        | 2014-01-19 12:58:39.594963
+(1213 rows)
+

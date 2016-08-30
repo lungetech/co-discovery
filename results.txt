@@ -1,3 +1,7 @@
+2014 - Ghost in the Shellcode
+100.00% were identified by more than one entity (3 of 3)
+2.78% chance in co-discovery
+
 2015 - DARPA Cyber Grand Challenge Qualifier
 82.29% were identified by more than one entity (79 of 96)
 31.97% chance in co-discovery

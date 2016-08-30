@@ -1,0 +1,28 @@
+         name         | count
+----------------------+-------
+ one                  |   271
+ DOS Attack           |   137
+ Boaring Music        |   104
+ Cave of Nope         |    69
+ Moon Boots           |    64
+ Dogecrypt            |    62
+ lugkist              |    48
+ Unbearable           |    46
+ TI-1337              |    44
+ inview               |    42
+ phpcrypto            |    41
+ PapSmear             |    40
+ A Boaring Quest      |    40
+ Pillowtalk           |    29
+ Radioactive          |    29
+ Ad Subtract          |    25
+ Rabbit of Caerbannog |    22
+ TrustMeMore          |    21
+ CTF247               |    21
+ gitsmsg              |    11
+ Fuzzy                |    10
+ Gitzino              |    10
+ Snow Down            |     9
+ Portal               |     9
+ Long live the Queen  |     5
+ Byte Sexual          |     4
